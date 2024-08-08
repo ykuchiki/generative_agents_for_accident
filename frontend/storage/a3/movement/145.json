@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Isabella discussing Klaus potentially showing up at the cafe, planning to meet at the library tomorrow at 2 pm to work on his paper about gentrification. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's your studying going? Need a refill on your coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, studying is going well, thanks! I'll take a refill on my coffee, please."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear that your studying is going well! Here's your refill. Let me know if you need anything else."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! By the way, have you seen Klaus around here? We were supposed to meet at the library tomorrow to work on his paper about gentrification."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh, Klaus mentioned that he might drop by the cafe today. I haven't seen him yet though."
+        ],
+        [
+          "Maria Lopez",
+          "Oh, I see. I'll keep an eye out for him then. Thanks, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "If Klaus does show up, I'll make sure to let him know you're looking for him. Good luck with your studying!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! I appreciate it. If you see him, please do let me know."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's always great to see you studying hard, Maria. Let me know if you need anything else while you're here."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll keep studying hard. If Klaus shows up, please let me know."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to keep an eye out for Klaus. Enjoy your coffee and studying, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Actually, do you know if Klaus mentioned what time he might stop by? I want to make sure I don't miss him."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Klaus mentioned he might drop by in the afternoon, so keep an eye out around then."
+        ],
+        [
+          "Maria Lopez",
+          "Could you also let Klaus know that I'll be waiting for him at the library tomorrow at 2 pm?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I'll let Klaus know you'll be waiting for him at the library tomorrow at 2 pm. Enjoy your coffee and studying, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella! I really appreciate your help. I'll keep an eye out for Klaus and wait for him tomorrow at 2 pm."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Isabella discussing Klaus potentially showing up at the cafe, planning to meet at the library tomorrow at 2 pm to work on his paper about gentrification. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's your studying going? Need a refill on your coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, studying is going well, thanks! I'll take a refill on my coffee, please."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear that your studying is going well! Here's your refill. Let me know if you need anything else."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! By the way, have you seen Klaus around here? We were supposed to meet at the library tomorrow to work on his paper about gentrification."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh, Klaus mentioned that he might drop by the cafe today. I haven't seen him yet though."
+        ],
+        [
+          "Maria Lopez",
+          "Oh, I see. I'll keep an eye out for him then. Thanks, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "If Klaus does show up, I'll make sure to let him know you're looking for him. Good luck with your studying!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! I appreciate it. If you see him, please do let me know."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's always great to see you studying hard, Maria. Let me know if you need anything else while you're here."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll keep studying hard. If Klaus shows up, please let me know."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to keep an eye out for Klaus. Enjoy your coffee and studying, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Actually, do you know if Klaus mentioned what time he might stop by? I want to make sure I don't miss him."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Klaus mentioned he might drop by in the afternoon, so keep an eye out around then."
+        ],
+        [
+          "Maria Lopez",
+          "Could you also let Klaus know that I'll be waiting for him at the library tomorrow at 2 pm?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I'll let Klaus know you'll be waiting for him at the library tomorrow at 2 pm. Enjoy your coffee and studying, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella! I really appreciate your help. I'll keep an eye out for Klaus and wait for him tomorrow at 2 pm."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:24:10"
+  }
+}

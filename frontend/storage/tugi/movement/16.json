@@ -1,0 +1,140 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking orders and serving food to customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Maria Lopez and Klaus Mueller, discussing their lunch plans, with Maria opting for a salad at Hobbs Cafe and Klaus having a turkey sandwich, also mentioning a new balsamic vinaigrette dressing, while Maria plans to stream later in the afternoon and Klaus heads back to the library to work on his research paper. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, what are you having for lunch today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm having a turkey sandwich for lunch today. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm just going to grab a quick salad at Hobbs Cafe, trying to keep it light today."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds healthy! I hope you enjoy your salad. Have you tried their new salad dressing?"
+        ],
+        [
+          "Maria Lopez",
+          "No, I haven't tried their new salad dressing yet. Is it good?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, it's a balsamic vinaigrette and it's so tasty! You should definitely give it a try next time."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks for the recommendation, Klaus! I will definitely try the balsamic vinaigrette next time."
+        ],
+        [
+          "Klaus Mueller",
+          "Are you planning on streaming later today?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I have a streaming schedule planned for later this afternoon. I will be gaming and interacting with my viewers from 1pm to 4pm."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fun streaming schedule! I'll make sure to tune in and support you. Good luck with your stream!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I appreciate your support"
+        ],
+        [
+          "Klaus Mueller",
+          "I have to head back to the library now to continue working on my research paper. It was nice catching up with you, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "It was nice catching up with you too, Klaus! Good luck with your research paper."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Maria Lopez and Klaus Mueller, discussing their lunch plans, with Maria opting for a salad at Hobbs Cafe and Klaus having a turkey sandwich, also mentioning a new balsamic vinaigrette dressing, while Maria plans to stream later in the afternoon and Klaus heads back to the library to work on his research paper. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, what are you having for lunch today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm having a turkey sandwich for lunch today. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm just going to grab a quick salad at Hobbs Cafe, trying to keep it light today."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds healthy! I hope you enjoy your salad. Have you tried their new salad dressing?"
+        ],
+        [
+          "Maria Lopez",
+          "No, I haven't tried their new salad dressing yet. Is it good?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, it's a balsamic vinaigrette and it's so tasty! You should definitely give it a try next time."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks for the recommendation, Klaus! I will definitely try the balsamic vinaigrette next time."
+        ],
+        [
+          "Klaus Mueller",
+          "Are you planning on streaming later today?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I have a streaming schedule planned for later this afternoon. I will be gaming and interacting with my viewers from 1pm to 4pm."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fun streaming schedule! I'll make sure to tune in and support you. Good luck with your stream!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I appreciate your support"
+        ],
+        [
+          "Klaus Mueller",
+          "I have to head back to the library now to continue working on my research paper. It was nice catching up with you, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "It was nice catching up with you too, Klaus! Good luck with your research paper."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:02:40"
+  }
+}

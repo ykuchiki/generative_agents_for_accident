@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez chatting about studying, with Isabella offering Maria another cup of coffee and a blueberry muffin to help her focus. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's your studying going? I noticed you've been here for a while."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, it's going well thanks! Just trying to finish up this physics assignment. What are you up to?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh, just keeping an eye on things here at the cafe. By the way, have you noticed the cozy atmosphere today?"
+        ],
+        [
+          "Maria Lopez",
+          "Yeah, I love the vibe here today. It's definitely helping me focus on my work."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Glad to hear you're enjoying the vibe. Would you like another cup of coffee to help you power through your assignment?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds amazing, thank you! I could definitely use another cup of coffee to keep me going."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll whip up your coffee right now. Enjoy studying and let me know if you need anything else."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much Isabella! I really appreciate it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything else I can get for you? Another snack or maybe a refill on your coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh, actually, do you mind grabbing me a blueberry muffin as well? Thank you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, I'll get that blueberry muffin for you right away. Enjoy your coffee and your snack while you study!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much for the coffee and muffin, Isabella! I really appreciate it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything else I can get for you? Another snack or maybe a refill on your coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "No, that's everything for now, thank you so much for your help Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Alright, just let me know if you need anything else. Enjoy your studying!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for the coffee and muffin, Isabella! I really appreciate it."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez chatting about studying, with Isabella offering Maria another cup of coffee and a blueberry muffin to help her focus. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's your studying going? I noticed you've been here for a while."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, it's going well thanks! Just trying to finish up this physics assignment. What are you up to?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh, just keeping an eye on things here at the cafe. By the way, have you noticed the cozy atmosphere today?"
+        ],
+        [
+          "Maria Lopez",
+          "Yeah, I love the vibe here today. It's definitely helping me focus on my work."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Glad to hear you're enjoying the vibe. Would you like another cup of coffee to help you power through your assignment?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds amazing, thank you! I could definitely use another cup of coffee to keep me going."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll whip up your coffee right now. Enjoy studying and let me know if you need anything else."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much Isabella! I really appreciate it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything else I can get for you? Another snack or maybe a refill on your coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh, actually, do you mind grabbing me a blueberry muffin as well? Thank you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, I'll get that blueberry muffin for you right away. Enjoy your coffee and your snack while you study!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much for the coffee and muffin, Isabella! I really appreciate it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything else I can get for you? Another snack or maybe a refill on your coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "No, that's everything for now, thank you so much for your help Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Alright, just let me know if you need anything else. Enjoy your studying!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for the coffee and muffin, Isabella! I really appreciate it."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda\u270d\ufe0f",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:23:40"
+  }
+}

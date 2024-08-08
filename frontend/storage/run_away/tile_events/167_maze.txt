@@ -1,0 +1,3 @@
+76 19 {(Maria Lopez, chat with, Isabella Rodriguez, conversing about setting up a quiet spot at Hobbs Cafe for Maria Lopez and Klaus Mueller to discuss Klaus's paper, with Isabella Rodriguez helping and offering to provide coffee for the meeting.)}
+77 19 {(Isabella Rodriguez, chat with, Maria Lopez, conversing about setting up a quiet spot at Hobbs Cafe for Maria Lopez and Klaus Mueller to discuss Klaus's paper, with Isabella Rodriguez helping and offering to provide coffee for the meeting.)}
+119 24 {(the Ville:Oak Hill College:library:library table, use, Klaus Mueller, being used by Klaus Mueller for writing his paper), (Klaus Mueller, write, paper, still at the library, writing his paper (on the way to still at the library, writing his pape))}

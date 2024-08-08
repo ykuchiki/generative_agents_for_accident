@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+{% block content %}
+<br>
+<br>
+<div>
+
+  <div id="game-container" style="text-align: center"></div>
+
+  <div style="width:55%; margin: 0 auto; margin-top:4.5em">
+
+    <h3 style="margin-bottom:-0.5em; font-size:1.5em">現在時刻:</h3>
+    <div class="row">
+      <div class="col-md-8" id="game-time" style="">
+        <h2><span id="game-time-content"></span></h2>
+      </div>
+      <div class="col-md-4">
+        <h2 style="text-align: right; {% if mode == 'simulate' %} display: none {% endif %}">
+          <button id="play_button" type="button" class="btn btn-default">
+            <strong style=" font-size:1.2em"><i class="glyphicon glyphicon-play"></i> &nbsp;Play</strong>
+          </button>
+
+          <button id="pause_button" type="button" class="btn btn-default">
+            <strong style=" font-size:1.2em"><i class="glyphicon glyphicon-pause"></i> &nbsp;Pause</strong>
+          </button>
+        </h2>
+      </div>
+    </div>
+
+    <br>
+    <hr style="border-color:#999999">
+    <br>
+
+    <div class="row">
+      <div class="col-md-12" style="border:solid; padding:2em; border-radius: 15px">
+        <div class="row" style="display: flex; flex-wrap: wrap;">
+        {% for p in persona_names %}
+          <div class="col-md-2 col-sm-2" style="text-align:center; margin-bottom:0.8em;">
+            <div class="row" style="padding:0">
+              <div class="col-md-4" style="text-align:center; padding:0; padding-top:0.3em">
+                {% with 'assets/characters/profile/'|add:p.underscore|add:'.png' as image_static %}
+                <img src="{% static image_static %}" style="width:46px; padding:0;">
+                {% endwith %}
+                <br>
+                {{ p.initial }}
+              </div>
+              <div class="col-md-8" style="padding-top:0.5em;">
+                <span style="font-size:1.5em" id="quick_emoji-{{p.underscore}}"></span>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+    <br>
+
+    {% for p in persona_names %}
+      <div class="media" id="on_screen_det_content-{{p.underscore}}" style="background-color:#EEEEEE; padding:1em; padding-left:3.5em; padding-right:2em; border-radius:10px;">
+        <div class="media-left media-middle">
+          <a href="#">
+            {% with 'assets/characters/profile/'|add:p.underscore|add:'.png' as image_static %}
+            <img src="{% static image_static %}" style="width:5em">
+            {% endwith %}
+          </a>
+        </div>
+        <div class="media-body" style='padding-left:3em; padding-top:0.5em; padding-bottom:1em'>
+          <div class="row">
+            <h2 class="col-md-8" id="name__{{ p.underscore }}" style="margin-bottom:0.8em; font-size:1.85em; ">
+              {{p.original}} &nbsp;&nbsp;
+              <a href="{% url 'replay_persona_state' sim_code step p.underscore %}" style="font-size:0.6em">State Details</a>
+            </h2>
+          </div>
+          <div style="">
+            <p style="font-size:1.2em"><strong>現在の行動:</strong> <br><span id="current_action__{{ p.underscore }}"></span></p>
+            <p style="font-size:1.2em"><strong>行動場所:</strong> <br><span id="target_address__{{ p.underscore }}"></span></p>
+            <p style="font-size:1.2em"><strong>現在の会話内容:</strong> <br><span id="chat__{{ p.underscore }}"></span></p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+
+  </div>
+</div>
+
+<div style="margin-top:10em"></div>
+
+<div style="display: " id="temp_focus"></div>
+
+{% endblock content %}
+
+{% block js_content %}
+<script src='https://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.js'></script>
+{% include 'demo/main_script.html' %}
+<script>
+
+  setInterval(function() {
+    let xhr = new XMLHttpRequest();
+    xhr.open('POST', '/set_time_value/', true);
+    xhr.setRequestHeader('X-CSRFToken', '{{ csrf_token }}');
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState == 4 && xhr.status == 200) {
+        console.log('Time value sent');
+      }
+    };
+    let data = new FormData();
+    data.append('time', start_datetime.toISOString());
+    data.append('step', step);
+    xhr.send(data);
+  }, 500); // 1秒ごとに送信
+</script>
+{% endblock js_content %}

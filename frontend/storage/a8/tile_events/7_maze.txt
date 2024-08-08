@@ -1,0 +1,3 @@
+78 15 {(Isabella Rodriguez, work, counter, still working at the counter, taking orders and chatting with customers)}
+131 48 {(Klaus Mueller, write, paper, still at the library, writing his paper)}
+124 51 {(Maria Lopez, study, Hobbs Cafe, studying at Hobbs Cafe)}

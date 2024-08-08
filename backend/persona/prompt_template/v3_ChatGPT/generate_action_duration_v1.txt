@@ -1,0 +1,44 @@
+generate_action_duration_v1.txt
+
+Variables:
+!<INPUT 0>! -- Game object
+!<INPUT 1>! -- Persona name
+!<INPUT 2>! -- Action description
+
+<commentblockmarker>###</commentblockmarker>
+---
+Example 1:
+Task: We want to know how long an action takes to complete.
+The duration should be given in minutes as a whole number.
+
+Let's think step by step.
+We want to know the duration for cleaning a new cup.
+Step 1. John is performing the action "cleaning".
+Step 2. Describe the time it takes for the action in minutes: 10
+
+Example 2:
+Task: We want to know how long an action takes to complete.
+The duration should be given in minutes as a whole number.
+
+Let's think step by step.
+We want to know the duration for unlocking a new door.
+Step 1. Sarah is performing the action "unlocking".
+Step 2. Describe the time it takes for the action in minutes: 5
+
+Example 3:
+Task: We want to know how long an action takes to complete.
+The duration should be given in minutes as a whole number.
+
+Let's think step by step.
+We want to know the duration for extinguishing a new fire.
+Step 1. Emily is performing the action "extinguishing".
+Step 2. Describe the time it takes for the action in minutes: 15
+---
+
+Task: We want to know how long an action takes to complete.
+The duration should be given in minutes as a whole number.
+
+Let's think step by step.
+We want to know the duration for !<INPUT 2>! of a new !<INPUT 0>!.
+Step 1. !<INPUT 1>! is performing the action !<INPUT 2>!.
+Step 2. Describe the time it takes for the action in minutes:

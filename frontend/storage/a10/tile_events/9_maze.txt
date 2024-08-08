@@ -1,0 +1,3 @@
+78 17 {(Isabella Rodriguez, work, counter, still working at the counter, taking orders and chatting with customers)}
+123 50 {(Maria Lopez, chat with, Klaus Mueller, conversing about discussing the impact of gentrification on community relationships, sharing personal experiences, and suggesting strategies to mitigate negative effects)}
+131 50 {(Klaus Mueller, chat with, Maria Lopez, conversing about discussing the impact of gentrification on community relationships, sharing personal experiences, and suggesting strategies to mitigate negative effects)}

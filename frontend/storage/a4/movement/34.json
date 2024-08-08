@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still working at the counter, taking orders and chatting with customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are chatting about the impact of gentrification in their community, sharing personal experiences and insights over a coffee break. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your paper coming along? Need any help or just taking a break?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, the paper is coming along okay. Just trying to wrap up some final thoughts on the effects of gentrification. I appreciate the offer of help, but I think I just need to power through it today."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good Klaus, you got this! Let me know if you need anything or want to take a break and grab a coffee together."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! I might take you up on that coffee offer later in the day once I finish up here."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll be here for a while so just let me know when you're ready!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, actually I could use a quick break now. Want to grab that coffee together?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure Klaus, let's go grab that coffee now!"
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate you being so supportive and offering to chat with me. Your company is always appreciated, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus! Let's head over to the cafe down the street."
+        ],
+        [
+          "Klaus Mueller",
+          "I wanted to get your thoughts on the impact of gentrification in our community. Do you have any personal experiences or insights on this topic?"
+        ],
+        [
+          "Maria Lopez",
+          "I actually have some personal experiences with gentrification in my neighborhood. It has definitely changed the dynamics and demographics quite a bit. I'll be happy to share my insights with you, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "That's really interesting, Maria. I would love to hear more about your experiences with gentrification. Let's continue this discussion over coffee."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our coffee and find a table to dive deeper into the topic of gentrification. I have some stories to share that I think you'll find interesting."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I'm really looking forward to hearing about your experiences with gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "Let's order our coffee first and then I can share my experiences with you."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's order our coffee and find a table to continue our conversation."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are chatting about the impact of gentrification in their community, sharing personal experiences and insights over a coffee break. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your paper coming along? Need any help or just taking a break?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, the paper is coming along okay. Just trying to wrap up some final thoughts on the effects of gentrification. I appreciate the offer of help, but I think I just need to power through it today."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good Klaus, you got this! Let me know if you need anything or want to take a break and grab a coffee together."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! I might take you up on that coffee offer later in the day once I finish up here."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll be here for a while so just let me know when you're ready!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, actually I could use a quick break now. Want to grab that coffee together?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure Klaus, let's go grab that coffee now!"
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate you being so supportive and offering to chat with me. Your company is always appreciated, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus! Let's head over to the cafe down the street."
+        ],
+        [
+          "Klaus Mueller",
+          "I wanted to get your thoughts on the impact of gentrification in our community. Do you have any personal experiences or insights on this topic?"
+        ],
+        [
+          "Maria Lopez",
+          "I actually have some personal experiences with gentrification in my neighborhood. It has definitely changed the dynamics and demographics quite a bit. I'll be happy to share my insights with you, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "That's really interesting, Maria. I would love to hear more about your experiences with gentrification. Let's continue this discussion over coffee."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our coffee and find a table to dive deeper into the topic of gentrification. I have some stories to share that I think you'll find interesting."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I'm really looking forward to hearing about your experiences with gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "Let's order our coffee first and then I can share my experiences with you."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's order our coffee and find a table to continue our conversation."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:05:40"
+  }
+}

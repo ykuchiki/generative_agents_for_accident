@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still working at the counter, taking orders and chatting with customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing Klaus's paper progress, with Maria offering to help him review his work, specifically focusing on the impact of gentrification on local businesses, and planning to head to the library together for further discussion. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along? Need any help?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. It's coming along slowly, but I think I'm making progress. I appreciate your offer to help!"
+        ],
+        [
+          "Maria Lopez",
+          "Would you like me to take a look at what you've written so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "That would be great, Maria. I could use a fresh pair of eyes on it. Thank you!"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's head over to the library after we finish up here."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll pack up my things here and meet you at the library in a few minutes."
+        ],
+        [
+          "Maria Lopez",
+          "Great, see you in a bit at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "I really appreciate your willingness to help me out, Maria. It means a lot to me."
+        ],
+        [
+          "Maria Lopez",
+          "No problem, Klaus. I'm happy to help out. Let me know if you have any specific areas you want me to focus on."
+        ],
+        [
+          "Klaus Mueller",
+          "I would love your feedback on the section about the impact of gentrification on local businesses."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll make sure to pay extra attention to that section. Let's head to the library now."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks again, Maria. I'll grab my things and meet you at the library."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head to the library together."
+        ],
+        [
+          "Klaus Mueller",
+          "I really enjoy our conversations, Maria. It's refreshing to discuss these topics with someone as knowledgeable as you."
+        ],
+        [
+          "Maria Lopez",
+          "Let's discuss potential solutions to the impacts of gentrification on local businesses."
+        ],
+        [
+          "Klaus Mueller",
+          "I completely agree, Maria. I think community involvement and support programs could be key in helping local businesses thrive despite the challenges of gentrification."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing Klaus's paper progress, with Maria offering to help him review his work, specifically focusing on the impact of gentrification on local businesses, and planning to head to the library together for further discussion. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along? Need any help?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. It's coming along slowly, but I think I'm making progress. I appreciate your offer to help!"
+        ],
+        [
+          "Maria Lopez",
+          "Would you like me to take a look at what you've written so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "That would be great, Maria. I could use a fresh pair of eyes on it. Thank you!"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's head over to the library after we finish up here."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll pack up my things here and meet you at the library in a few minutes."
+        ],
+        [
+          "Maria Lopez",
+          "Great, see you in a bit at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "I really appreciate your willingness to help me out, Maria. It means a lot to me."
+        ],
+        [
+          "Maria Lopez",
+          "No problem, Klaus. I'm happy to help out. Let me know if you have any specific areas you want me to focus on."
+        ],
+        [
+          "Klaus Mueller",
+          "I would love your feedback on the section about the impact of gentrification on local businesses."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll make sure to pay extra attention to that section. Let's head to the library now."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks again, Maria. I'll grab my things and meet you at the library."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head to the library together."
+        ],
+        [
+          "Klaus Mueller",
+          "I really enjoy our conversations, Maria. It's refreshing to discuss these topics with someone as knowledgeable as you."
+        ],
+        [
+          "Maria Lopez",
+          "Let's discuss potential solutions to the impacts of gentrification on local businesses."
+        ],
+        [
+          "Klaus Mueller",
+          "I completely agree, Maria. I think community involvement and support programs could be key in helping local businesses thrive despite the challenges of gentrification."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:08:50"
+  }
+}

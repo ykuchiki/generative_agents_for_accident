@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about Maria's struggles balancing her studies with Twitch streaming, with Isabella offering help and support regarding setting schedules, finding a quiet spot at the cafe, and dealing with the aftermath of a fire in the cooking area. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I couldn't help but notice you studying here at the cafe. What are you working on?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, I'm actually working on balancing my studies with Twitch streaming. I have a coffee meeting with Klaus Mueller tomorrow to discuss time management. It's been a bit of a challenge but I'm figuring it out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a lot on your plate! Have you considered setting specific schedules for your studying and streaming to help with time management?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I actually have a schedule where I block out specific times for studying and streaming. It has definitely helped me stay on track."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear that you have a schedule in place! It's important to find that balance. If you ever need a quiet spot to study or stream, feel free to use a corner table at the cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer. I'll keep that in mind. How about you? What brings you to Hobbs Cafe today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm actually tackling the aftermath of a fire in the cooking area. It was a bit chaotic earlier, but everything is under control now."
+        ],
+        [
+          "Maria Lopez",
+          "Wow, that sounds intense! I'm glad everything is under control now. If you need any help, I'm here."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I appreciate the offer. It's great to know you're here to help if needed."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you need help with regarding the aftermath of the fire?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! Right now I'm just trying to clean up and assess the damages, but your offer means a lot. I'll keep you updated if anything comes up."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything I can do to assist with the clean-up process or assessing the damages?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to help, Maria. I think I have everything under control for now, but I will definitely let you know if I need assistance with the clean-up process or assessing the damages."
+        ],
+        [
+          "Maria Lopez",
+          "I understand, Isabella. Just let me know if you need any additional help or support. I'm here for you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I'll definitely keep you in mind if I need any assistance. I'm grateful for your support."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need assistance with right now, Isabella?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about Maria's struggles balancing her studies with Twitch streaming, with Isabella offering help and support regarding setting schedules, finding a quiet spot at the cafe, and dealing with the aftermath of a fire in the cooking area. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I couldn't help but notice you studying here at the cafe. What are you working on?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, I'm actually working on balancing my studies with Twitch streaming. I have a coffee meeting with Klaus Mueller tomorrow to discuss time management. It's been a bit of a challenge but I'm figuring it out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a lot on your plate! Have you considered setting specific schedules for your studying and streaming to help with time management?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I actually have a schedule where I block out specific times for studying and streaming. It has definitely helped me stay on track."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear that you have a schedule in place! It's important to find that balance. If you ever need a quiet spot to study or stream, feel free to use a corner table at the cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer. I'll keep that in mind. How about you? What brings you to Hobbs Cafe today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm actually tackling the aftermath of a fire in the cooking area. It was a bit chaotic earlier, but everything is under control now."
+        ],
+        [
+          "Maria Lopez",
+          "Wow, that sounds intense! I'm glad everything is under control now. If you need any help, I'm here."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I appreciate the offer. It's great to know you're here to help if needed."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you need help with regarding the aftermath of the fire?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! Right now I'm just trying to clean up and assess the damages, but your offer means a lot. I'll keep you updated if anything comes up."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything I can do to assist with the clean-up process or assessing the damages?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to help, Maria. I think I have everything under control for now, but I will definitely let you know if I need assistance with the clean-up process or assessing the damages."
+        ],
+        [
+          "Maria Lopez",
+          "I understand, Isabella. Just let me know if you need any additional help or support. I'm here for you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I'll definitely keep you in mind if I need any assistance. I'm grateful for your support."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need assistance with right now, Isabella?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:24:50"
+  }
+}

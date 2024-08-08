@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still working at the counter, taking orders and chatting with customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller making plans to meet at Hobbs Cafe for lunch after Klaus finishes his final draft of his paper @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's coming along well. I'm almost done with the final draft."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! Want to grab a bite to eat after you're done?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, that sounds great. I could use a break after this. What are you in the mood for?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we go to Hobbs Cafe? I was planning on getting some food there anyway."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds perfect. Let's head over to Hobbs Cafe once I finish up here."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you once you're done then."
+        ],
+        [
+          "Klaus Mueller",
+          "I think I just need another 10-15 minutes to wrap things up here. How about we meet at Hobbs Cafe around 1:30 pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 1:30 pm at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to it. I'll see you at Hobbs Cafe at 1:30 pm then!"
+        ],
+        [
+          "Maria Lopez",
+          "Perfect, see you at 1:30 pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll start packing up here and head over to Hobbs Cafe. See you soon!"
+        ],
+        [
+          "Maria Lopez",
+          "Awesome, I'll see you soon then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm all done here now, heading to Hobbs Cafe. See you soon!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, see you at Hobbs Cafe soon!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm here at Hobbs Cafe now. Where are you seated?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller making plans to meet at Hobbs Cafe for lunch after Klaus finishes his final draft of his paper @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's coming along well. I'm almost done with the final draft."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! Want to grab a bite to eat after you're done?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, that sounds great. I could use a break after this. What are you in the mood for?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we go to Hobbs Cafe? I was planning on getting some food there anyway."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds perfect. Let's head over to Hobbs Cafe once I finish up here."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you once you're done then."
+        ],
+        [
+          "Klaus Mueller",
+          "I think I just need another 10-15 minutes to wrap things up here. How about we meet at Hobbs Cafe around 1:30 pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 1:30 pm at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to it. I'll see you at Hobbs Cafe at 1:30 pm then!"
+        ],
+        [
+          "Maria Lopez",
+          "Perfect, see you at 1:30 pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll start packing up here and head over to Hobbs Cafe. See you soon!"
+        ],
+        [
+          "Maria Lopez",
+          "Awesome, I'll see you soon then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm all done here now, heading to Hobbs Cafe. See you soon!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, see you at Hobbs Cafe soon!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm here at Hobbs Cafe now. Where are you seated?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:05:30"
+  }
+}

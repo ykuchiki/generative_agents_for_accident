@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez discussing putting out a fire in the kitchen, planning to grab coffee together with Klaus this weekend, deciding to meet later in the week for coffee, and scheduling their coffee meet up for Friday afternoon. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "I'm so glad I was able to put out that fire in the kitchen before it got too out of hand. It was a close call!"
+        ],
+        [
+          "Maria Lopez",
+          "Wow, that must have been intense! Thank you for taking quick action."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, it was definitely a scary moment. I'm just glad everyone is safe."
+        ],
+        [
+          "Maria Lopez",
+          "You're a hero for acting so swiftly! Do you want to take a break and grab a coffee with me?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I appreciate your kind words. Sure, I'd love to grab a coffee with you!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm meeting Klaus for coffee this weekend, you should join us!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I would love to join you and Klaus for coffee this weekend."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll let Klaus know that you're joining us. See you this weekend!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I can't wait to meet Klaus this weekend! Thank you for inviting me."
+        ],
+        [
+          "Maria Lopez",
+          "Should we go grab that coffee now or sometime later in the week?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we grab that coffee later in the week? I have some things to take care of at the cafe right now."
+        ],
+        [
+          "Maria Lopez",
+          "Alright, sounds good! Let's plan for later this week. Take care of what you need to do and we can catch up over coffee soon."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I'd love to catch up over coffee later this week. I really appreciate your understanding."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! Let me know when you're free this week and we can schedule our coffee meet up."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm free on Friday afternoon. How about we meet for coffee then?"
+        ],
+        [
+          "Maria Lopez",
+          "That works for me, let's meet on Friday afternoon for coffee!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez discussing putting out a fire in the kitchen, planning to grab coffee together with Klaus this weekend, deciding to meet later in the week for coffee, and scheduling their coffee meet up for Friday afternoon. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "I'm so glad I was able to put out that fire in the kitchen before it got too out of hand. It was a close call!"
+        ],
+        [
+          "Maria Lopez",
+          "Wow, that must have been intense! Thank you for taking quick action."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, it was definitely a scary moment. I'm just glad everyone is safe."
+        ],
+        [
+          "Maria Lopez",
+          "You're a hero for acting so swiftly! Do you want to take a break and grab a coffee with me?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I appreciate your kind words. Sure, I'd love to grab a coffee with you!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm meeting Klaus for coffee this weekend, you should join us!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I would love to join you and Klaus for coffee this weekend."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll let Klaus know that you're joining us. See you this weekend!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I can't wait to meet Klaus this weekend! Thank you for inviting me."
+        ],
+        [
+          "Maria Lopez",
+          "Should we go grab that coffee now or sometime later in the week?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we grab that coffee later in the week? I have some things to take care of at the cafe right now."
+        ],
+        [
+          "Maria Lopez",
+          "Alright, sounds good! Let's plan for later this week. Take care of what you need to do and we can catch up over coffee soon."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I'd love to catch up over coffee later this week. I really appreciate your understanding."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! Let me know when you're free this week and we can schedule our coffee meet up."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm free on Friday afternoon. How about we meet for coffee then?"
+        ],
+        [
+          "Maria Lopez",
+          "That works for me, let's meet on Friday afternoon for coffee!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:23:10"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 13:29:50",
+  "curr_tile": [
+    75,
+    21
+  ],
+  "daily_plan_req": "Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "Tackle fire immediately",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday",
+  "lifestyle": "Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 89,
+  "importance_ele_n": 27,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 9:00 am",
+    "attend physics class at 10:00 am",
+    "study at Hobbs Cafe from 11:00 am to 2:00 pm",
+    "have lunch at 2:00 pm",
+    "stream on Twitch from 3:00 pm to 6:00 pm",
+    "have dinner at 6:00 pm",
+    "continue streaming or gaming from 7:00 pm to 10:00 pm",
+    "relax and watch TV or play games for fun from 10:00 pm to 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      540
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "attending physics class",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "streaming on Twitch (on the way to on the way to setting up her streaming equipment)",
+      0
+    ],
+    [
+      "streaming on Twitch (conversing about helping each other with physics homework, specifically explaining Newton's Laws and offering further assistance if needed)",
+      9
+    ],
+    [
+      "streaming on Twitch (checking her internet connection)",
+      5
+    ],
+    [
+      "streaming on Twitch (interacting with her viewers in the chat)",
+      30
+    ],
+    [
+      "streaming on Twitch (playing a game)",
+      60
+    ],
+    [
+      "streaming on Twitch (taking a short break)",
+      5
+    ],
+    [
+      "streaming on Twitch (checking her social media accounts)",
+      10
+    ],
+    [
+      "streaming on Twitch (promoting her stream on social media)",
+      60
+    ],
+    [
+      "wrapping up the stream and ending by 17:00 PM.",
+      1
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "streaming on Twitch",
+      240
+    ],
+    [
+      "watching TV or playing games for fun",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      540
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "attending physics class",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "streaming on Twitch",
+      180
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "streaming on Twitch",
+      240
+    ],
+    [
+      "watching TV or playing games for fun",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "<persona> Isabella Rodriguez",
+  "act_start_time": "February 13, 2023, 13:21:30",
+  "act_duration": 9,
+  "act_description": "conversing about helping each other with physics homework, specifically explaining Newton's Laws and offering further assistance if needed",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Maria Lopez",
+    "chat with",
+    "Isabella Rodriguez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Isabella Rodriguez",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "Hey Maria! How's studying going? Need a break?"
+    ],
+    [
+      "Maria Lopez",
+      "Hey Isabella! I'm actually taking a break right now, just grabbing a coffee. How's your day been?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "It's been a bit hectic, the cooking area caught on fire earlier, but we managed to put it out quickly. How about you? Need any help with your studies?"
+    ],
+    [
+      "Maria Lopez",
+      "Oh wow, that must have been scary! I'm glad everyone is okay. And thanks for offering, I could use some help with my physics homework if you have a moment."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Sure, I can help with your physics homework. Let's take a look at it together."
+    ],
+    [
+      "Maria Lopez",
+      "Thank you so much, Isabella! Let's grab a table and go over it together."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Do you have your physics homework with you? Let's go over it together."
+    ],
+    [
+      "Maria Lopez",
+      "I actually left my physics homework at home, but I can try to explain the concepts I'm struggling with to see if you can help me understand better."
+    ],
+    [
+      "Isabella Rodriguez",
+      "That sounds like a good plan. Let's discuss the concepts you're struggling with and see how we can simplify them."
+    ],
+    [
+      "Maria Lopez",
+      "Thank you for helping me with my physics homework. I'm struggling with understanding the concept of Newton's Laws. Do you think you can explain them to me?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Sure, I can definitely explain Newton's Laws to you. Let's break it down step by step."
+    ],
+    [
+      "Maria Lopez",
+      "Thank you for explaining Newton's Laws to me, Isabella. I think I understand it better now."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'm glad I could help you understand Newton's Laws, Maria. Feel free to reach out if you have any more questions or need further clarification."
+    ],
+    [
+      "Maria Lopez",
+      "Thank you so much, Isabella! I really appreciate your help with my physics homework. I feel more confident now."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'm really glad I could help you with your physics homework, Maria. If you have any more questions or need further assistance, don't hesitate to ask!"
+    ],
+    [
+      "Maria Lopez",
+      "Thank you again for your help, Isabella. I feel much better about my physics homework now."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Klaus Mueller": 674,
+    "Isabella Rodriguez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 13:31:00",
+  "act_path_set": true,
+  "planned_path": []
+}

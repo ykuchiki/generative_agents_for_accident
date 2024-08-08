@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still working at the counter, taking orders and chatting with customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their progress on their papers, making plans to grab coffee, and organizing a hiking trip for the weekend. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your paper going? Are you almost done?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm making good progress on my paper. It's a lot of work, but I'm almost done. How about you, how's your studying going?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh, I'm getting there slowly but surely. Physics can be quite challenging but I'm making progress. How about we grab a coffee together after we finish up here?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I could really use a break. Let's head to the cafe after I finish up here."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll meet you at the library entrance in 15 minutes!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan, Maria. I'll see you at the library entrance in 15 minutes!"
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any plans for the weekend, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "I don't have specific plans for the weekend yet. Maybe catch up on some reading and relax. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I was actually thinking of going hiking this weekend. Do you want to join me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I love hiking and it would be great to spend the weekend outdoors. Count me in!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's finalize the details later. I'll text you later with the plan. Thanks for agreeing to hike with me!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to hiking with you, Maria. I'll be waiting for your text with the plan!"
+        ],
+        [
+          "Maria Lopez",
+          "Well, I better get back to my studies now. See you at the library entrance in 15 minutes!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, sounds good. I'll see you at the library entrance in 15 minutes!"
+        ],
+        [
+          "Maria Lopez",
+          "See you at the library entrance in 15 minutes!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to catching up over coffee and discussing our weekend plans. See you at the library entrance in 15 minutes, Maria!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their progress on their papers, making plans to grab coffee, and organizing a hiking trip for the weekend. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your paper going? Are you almost done?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm making good progress on my paper. It's a lot of work, but I'm almost done. How about you, how's your studying going?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh, I'm getting there slowly but surely. Physics can be quite challenging but I'm making progress. How about we grab a coffee together after we finish up here?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I could really use a break. Let's head to the cafe after I finish up here."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll meet you at the library entrance in 15 minutes!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan, Maria. I'll see you at the library entrance in 15 minutes!"
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any plans for the weekend, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "I don't have specific plans for the weekend yet. Maybe catch up on some reading and relax. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I was actually thinking of going hiking this weekend. Do you want to join me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I love hiking and it would be great to spend the weekend outdoors. Count me in!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's finalize the details later. I'll text you later with the plan. Thanks for agreeing to hike with me!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to hiking with you, Maria. I'll be waiting for your text with the plan!"
+        ],
+        [
+          "Maria Lopez",
+          "Well, I better get back to my studies now. See you at the library entrance in 15 minutes!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, sounds good. I'll see you at the library entrance in 15 minutes!"
+        ],
+        [
+          "Maria Lopez",
+          "See you at the library entrance in 15 minutes!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to catching up over coffee and discussing our weekend plans. See you at the library entrance in 15 minutes, Maria!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:02:20"
+  }
+}

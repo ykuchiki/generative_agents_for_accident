@@ -1,0 +1,5 @@
+75 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire), (the Ville:Hobbs Cafe:cafe:cooking area, is, still on fire, but Isabella is bravely trying to put it out, still on fire, but Isabella is bravely trying to put it out by Isabella Rodriguez)}
+76 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire), (the Ville:Hobbs Cafe:cafe:cooking area, is, still on fire, but Isabella is bravely trying to put it out, still on fire, but Isabella is bravely trying to put it out by Isabella Rodriguez)}
+77 19 {(Isabella Rodriguez, be, fearless, being fearless)}
+127 50 {(Klaus Mueller, chat with, Maria Lopez, conversing about discussing gentrification and its impacts on marginalized communities, exchanging ideas on incorporating case studies into Klaus' paper, and planning to continue their conversation over coffee at Hobbs Cafe)}
+128 50 {(Maria Lopez, chat with, Klaus Mueller, conversing about discussing gentrification and its impacts on marginalized communities, exchanging ideas on incorporating case studies into Klaus' paper, and planning to continue their conversation over coffee at Hobbs Cafe)}

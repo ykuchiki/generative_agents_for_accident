@@ -1,0 +1,3 @@
+75 19 {(Maria Lopez, study, Hobbs Cafe, studying at Hobbs Cafe)}
+78 19 {(the Ville:Hobbs Cafe:cafe:behind the cafe counter, is, busy and bustling, busy and bustling), (Isabella Rodriguez, work, counter, still working at the counter, taking orders and chatting with customers)}
+119 24 {(the Ville:Oak Hill College:library:library table, use, Klaus Mueller, being used by Klaus Mueller for writing his paper), (Klaus Mueller, write, paper, still at the library, writing his paper (on the way to still at the library, writing his pape))}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella and Maria, discussing studying, preparing coffee and snacks, and Maria's upcoming meeting to review Klaus Mueller's paper @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's studying going? Need any coffee or snacks to keep you going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, studying is going alright, thanks! I could use a coffee actually, that would be great."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure thing, Maria! I'll make you a coffee right away."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! How's your day been so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day has been busy but good. Just dealing with the usual cafe activities. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "My day has been pretty good so far. I have a meeting later to review Klaus Mueller's paper."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Good luck with your meeting! Let me know if you need anything else."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! I appreciate it. Just need to grab my notes and laptop for the meeting later."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you want me to prepare a snack for you to take to your meeting?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, please! A snack would be great to take to the meeting. Thank you, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll prepare a snack for you to take to your meeting. Do you have any preferences or allergies I should know about?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm actually allergic to nuts, so please avoid any snacks with nuts in them."
+        ],
+        [
+          "Isabella Rodriguez",
+          "No problem, Maria! I'll make sure to prepare a snack without nuts for you."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella! I really appreciate your help."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, I'll have your coffee and snack ready in a few minutes. Anything in particular you'd like for the snack?"
+        ],
+        [
+          "Maria Lopez",
+          "I usually like something simple like a granola bar or a piece of fruit. Thank you!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella and Maria, discussing studying, preparing coffee and snacks, and Maria's upcoming meeting to review Klaus Mueller's paper @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's studying going? Need any coffee or snacks to keep you going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, studying is going alright, thanks! I could use a coffee actually, that would be great."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure thing, Maria! I'll make you a coffee right away."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! How's your day been so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day has been busy but good. Just dealing with the usual cafe activities. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "My day has been pretty good so far. I have a meeting later to review Klaus Mueller's paper."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Good luck with your meeting! Let me know if you need anything else."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! I appreciate it. Just need to grab my notes and laptop for the meeting later."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you want me to prepare a snack for you to take to your meeting?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, please! A snack would be great to take to the meeting. Thank you, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll prepare a snack for you to take to your meeting. Do you have any preferences or allergies I should know about?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm actually allergic to nuts, so please avoid any snacks with nuts in them."
+        ],
+        [
+          "Isabella Rodriguez",
+          "No problem, Maria! I'll make sure to prepare a snack without nuts for you."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella! I really appreciate your help."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, I'll have your coffee and snack ready in a few minutes. Anything in particular you'd like for the snack?"
+        ],
+        [
+          "Maria Lopez",
+          "I usually like something simple like a granola bar or a piece of fruit. Thank you!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:26:50"
+  }
+}

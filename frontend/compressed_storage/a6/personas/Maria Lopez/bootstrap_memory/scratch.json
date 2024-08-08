@@ -1,0 +1,267 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 13:29:50",
+  "curr_tile": [
+    75,
+    23
+  ],
+  "daily_plan_req": "Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "Tackle fire immediately",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday",
+  "lifestyle": "Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 122,
+  "importance_ele_n": 18,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 9:00 am",
+    "attend physics class at 10:00 am",
+    "study at Hobbs Cafe from 11:00 am to 2:00 pm",
+    "have lunch at 2:00 pm",
+    "stream on Twitch from 3:00 pm to 6:00 pm",
+    "have dinner at 6:00 pm",
+    "continue streaming or gaming from 7:00 pm to 10:00 pm",
+    "relax and watch TV or play games for fun from 10:00 pm to 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      540
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "attending physics class",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "streaming on Twitch (on the way to on the way to setting up her streaming equipment)",
+      0
+    ],
+    [
+      "streaming on Twitch (conversing about implementing and improving safety measures in Hobbs Cafe after a fire incident, with Isabella Rodriguez and Maria Lopez discussing the need for safety training, fire drills, and a designated safety officer to ensure everyone's safety.)",
+      10
+    ],
+    [
+      "streaming on Twitch (conversing about Maria Lopez and Klaus Mueller making plans to meet at Hobbs Cafe for lunch after Klaus finishes his final draft of his paper)",
+      6
+    ],
+    [
+      "streaming on Twitch (checking her internet connection)",
+      5
+    ],
+    [
+      "streaming on Twitch (interacting with her viewers in the chat)",
+      30
+    ],
+    [
+      "streaming on Twitch (playing a game)",
+      60
+    ],
+    [
+      "streaming on Twitch (taking a short break)",
+      5
+    ],
+    [
+      "streaming on Twitch (checking her social media accounts)",
+      10
+    ],
+    [
+      "streaming on Twitch (promoting her stream on social media)",
+      60
+    ],
+    [
+      "having dinner",
+      50
+    ],
+    [
+      "streaming on Twitch",
+      240
+    ],
+    [
+      "watching TV or playing games for fun",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      4
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      540
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "attending physics class",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "streaming on Twitch",
+      180
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "streaming on Twitch",
+      240
+    ],
+    [
+      "watching TV or playing games for fun",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "<persona> Isabella Rodriguez",
+  "act_start_time": "February 13, 2023, 13:20:20",
+  "act_duration": 10,
+  "act_description": "conversing about implementing and improving safety measures in Hobbs Cafe after a fire incident, with Isabella Rodriguez and Maria Lopez discussing the need for safety training, fire drills, and a designated safety officer to ensure everyone's safety.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Maria Lopez",
+    "chat with",
+    "Isabella Rodriguez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Isabella Rodriguez",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "Maria, I saw you studying when the cooking area caught fire. Are you okay?"
+    ],
+    [
+      "Maria Lopez",
+      "Yes, Isabella, I'm fine. Thank you for asking. It was quite a surprise to see the fire, but I'm glad you acted quickly to put it out."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'm just relieved that everyone is safe. We have to be more careful in the kitchen from now on."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, I agree. We should definitely review our safety procedures in the kitchen to prevent any accidents in the future."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'll make sure to schedule a safety training session for our staff to ensure everyone is aware of proper procedures."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, do you need any help with scheduling the safety training session?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Thank you for offering, Maria. I will handle the scheduling myself."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, if you need any assistance with the safety training materials or preparation, feel free to let me know. I'm more than happy to help."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Thank you, Maria. I appreciate your offer. I will let you know if I need any assistance with the safety training materials."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, I also think it would be beneficial to have regular fire drills to ensure everyone knows how to safely evacuate the building in case of emergencies."
+    ],
+    [
+      "Isabella Rodriguez",
+      "That's a great idea, Maria. I'll make sure to include fire drills in our safety training plan. Thank you for suggesting it."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, I'm glad you acted quickly to put out the fire. It's important to stay vigilant in case of emergencies."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Thank you, Maria. I appreciate your suggestions and willingness to help with the safety training. I'll make sure to keep you updated on the progress."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, if there are any other safety measures or protocols you believe we should implement, please do not hesitate to let me know. Our priority is to ensure the safety of everyone at Hobbs Cafe."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Thank you, Maria. I will definitely keep that in mind and will consult with you if any further safety measures need to be implemented."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, I think it would also be beneficial to have a designated safety officer who can oversee the implementation and enforcement of safety protocols on a daily basis. This way, we can ensure that safety remains a top priority at Hobbs Cafe."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Klaus Mueller": 668,
+    "Isabella Rodriguez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 13:31:00",
+  "act_path_set": true,
+  "planned_path": []
+}

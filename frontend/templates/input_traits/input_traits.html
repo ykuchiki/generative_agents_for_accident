@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Input Form</title>
+</head>
+<style>
+    .textarea{
+        width: 250px;
+        height: fit-content;
+    }
+</style>
+<body>
+    <h1>Enter Isabella Rodriguez</h1>
+    <form method="post">
+        {% csrf_token %}
+        <label for="location">Environment Location:</label>
+        <input type="text" id="location" name="location"><br><br>
+
+        <label for="vision_r">Vision R:</label>
+        <input type="number" id="vision_r" name="vision_r" value=8><br><br>
+        
+        <label for="att_bandwidth">Attention Bandwidth:</label>
+        <input type="number" id="att_bandwidth" name="att_bandwidth" value=8><br><br>
+        
+        <label for="retention">Retention:</label>
+        <input type="number" id="retention" name="retention" value=8><br><br>
+        
+        <label for="daily_plan_req">Daily Plan Request:</label>
+        <textarea id="daily_plan_req" name="daily_plan_req">Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.</textarea><br><br>
+        
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" value="Isabella Rodriguez"><br><br>
+        
+        <label for="first_name">First Name:</label>
+        <input type="text" id="first_name" name="first_name" value="Isabella"><br><br>
+        
+        <label for="last_name">Last Name:</label>
+        <input type="text" id="last_name" name="last_name" value="Rodriguez"><br><br>
+        
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" value=34><br><br>
+        
+        <label for="innate">Innate Traits:</label>
+        <textarea id="innate" name="innate">friendly, outgoing, hospitable</textarea><br><br>
+        
+        <label for="learned">Learned Traits:</label>
+        <textarea id="learned" name="learned">Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.</textarea><br><br>
+        
+        <label for="currently">Currently:</label>
+        <textarea id="currently" name="currently">Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.</textarea><br><br>
+        
+        <label for="lifestyle">Lifestyle:</label>
+        <textarea id="lifestyle" name="lifestyle">Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.</textarea><br><br>
+        
+        <label for="living_area">Living Area:</label>
+        <textarea id="living_area" name="living_area">the Ville:Isabella Rodriguez's apartment:main room</textarea><br><br>
+        
+        <!-- Add additional fields as needed -->
+        
+        <button type="submit">Submit</button>
+    </form>
+</body>
+
+</html>

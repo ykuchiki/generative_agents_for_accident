@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still working at the counter, taking orders and chatting with customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez discussing the progress of Klaus's paper on gentrification, with Maria offering to provide feedback, setting up a meeting at Hobbs Cafe on Wednesday evening to review the section on the impact on community members directly affected by gentrification, and Maria agreeing to send relevant studies on the topic before the meeting. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's coming along slow but steady. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with it? I could give you some feedback."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I would really appreciate that. Maybe we can go over it together sometime this week?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great! How about we meet up on Wednesday evening at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "That works for me! Let's say 6 pm on Wednesday at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "Great, it's a plan! I'll see you on Wednesday at 6 pm at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to our meeting on Wednesday. Thanks again for offering to help!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there a specific section of the paper you would like me to focus on?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hmm, maybe we can focus on the section where I talk about the impact on community members directly affected by gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a good plan. I'll make sure to review that section beforehand so we can discuss it in detail on Wednesday."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again, Maria. I'm looking forward to our discussion on Wednesday."
+        ],
+        [
+          "Maria Lopez",
+          "I'll see you then! Have a great day Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Actually, there is one more thing I wanted to ask you. Have you come across any recent studies on the topic that could provide more insight into the effects of gentrification?"
+        ],
+        [
+          "Maria Lopez",
+          "I haven't looked into it recently, but I can do some research and send you some relevant studies before our meeting on Wednesday."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Maria. Your help means a lot to me. I'll be sure to look out for the studies you send over. See you on Wednesday!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez discussing the progress of Klaus's paper on gentrification, with Maria offering to provide feedback, setting up a meeting at Hobbs Cafe on Wednesday evening to review the section on the impact on community members directly affected by gentrification, and Maria agreeing to send relevant studies on the topic before the meeting. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's coming along slow but steady. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with it? I could give you some feedback."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I would really appreciate that. Maybe we can go over it together sometime this week?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great! How about we meet up on Wednesday evening at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "That works for me! Let's say 6 pm on Wednesday at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "Great, it's a plan! I'll see you on Wednesday at 6 pm at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to our meeting on Wednesday. Thanks again for offering to help!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there a specific section of the paper you would like me to focus on?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hmm, maybe we can focus on the section where I talk about the impact on community members directly affected by gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a good plan. I'll make sure to review that section beforehand so we can discuss it in detail on Wednesday."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again, Maria. I'm looking forward to our discussion on Wednesday."
+        ],
+        [
+          "Maria Lopez",
+          "I'll see you then! Have a great day Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Actually, there is one more thing I wanted to ask you. Have you come across any recent studies on the topic that could provide more insight into the effects of gentrification?"
+        ],
+        [
+          "Maria Lopez",
+          "I haven't looked into it recently, but I can do some research and send you some relevant studies before our meeting on Wednesday."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Maria. Your help means a lot to me. I'll be sure to look out for the studies you send over. See you on Wednesday!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:03:50"
+  }
+}

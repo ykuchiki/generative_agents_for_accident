@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "still working at the counter, taking orders and chatting with customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about time management and balancing studies with Twitch streaming between Maria Lopez and Klaus Mueller leading to plans for a coffee meeting @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's that paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's coming along well, I've been making good progress."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! Do you need any help with it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for offering, Maria. I think I'm good for now, but I'll definitely let you know if I need some help later on. How are your own studies going?"
+        ],
+        [
+          "Maria Lopez",
+          "That's good to hear! My studies are going well too, just trying to balance everything with my Twitch streaming."
+        ],
+        [
+          "Klaus Mueller",
+          "That's impressive, Maria! Balancing studies and Twitch streaming must be challenging. How do you manage your time effectively?"
+        ],
+        [
+          "Maria Lopez",
+          "I try to set aside specific blocks of time for each activity and make sure to prioritize my studies first."
+        ],
+        [
+          "Klaus Mueller",
+          "That's really smart, Maria. I might have to take a page out of your book and try that method. It sounds like it's been working well for you."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Klaus! If you ever need any tips on time management, feel free to ask. I'm always happy to help out a fellow student."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I appreciate that. I'll definitely keep your advice in mind. It's always great to have support from friends like you."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to grab a coffee sometime and continue this conversation?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to grab a coffee with you, Maria! How about we meet up at Hobbs Cafe tomorrow at 2pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at Hobbs Cafe tomorrow at 2pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to our coffee tomorrow, Maria! Have a great rest of your day."
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to our coffee tomorrow, Klaus! Have a great day as well."
+        ],
+        [
+          "Klaus Mueller",
+          "It was great catching up with you, Maria. I'm excited for our coffee chat tomorrow!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about time management and balancing studies with Twitch streaming between Maria Lopez and Klaus Mueller leading to plans for a coffee meeting @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's that paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's coming along well, I've been making good progress."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! Do you need any help with it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for offering, Maria. I think I'm good for now, but I'll definitely let you know if I need some help later on. How are your own studies going?"
+        ],
+        [
+          "Maria Lopez",
+          "That's good to hear! My studies are going well too, just trying to balance everything with my Twitch streaming."
+        ],
+        [
+          "Klaus Mueller",
+          "That's impressive, Maria! Balancing studies and Twitch streaming must be challenging. How do you manage your time effectively?"
+        ],
+        [
+          "Maria Lopez",
+          "I try to set aside specific blocks of time for each activity and make sure to prioritize my studies first."
+        ],
+        [
+          "Klaus Mueller",
+          "That's really smart, Maria. I might have to take a page out of your book and try that method. It sounds like it's been working well for you."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Klaus! If you ever need any tips on time management, feel free to ask. I'm always happy to help out a fellow student."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I appreciate that. I'll definitely keep your advice in mind. It's always great to have support from friends like you."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to grab a coffee sometime and continue this conversation?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to grab a coffee with you, Maria! How about we meet up at Hobbs Cafe tomorrow at 2pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at Hobbs Cafe tomorrow at 2pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to our coffee tomorrow, Maria! Have a great rest of your day."
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to our coffee tomorrow, Klaus! Have a great day as well."
+        ],
+        [
+          "Klaus Mueller",
+          "It was great catching up with you, Maria. I'm excited for our coffee chat tomorrow!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:03:10"
+  }
+}

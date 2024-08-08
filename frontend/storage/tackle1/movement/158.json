@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about discussing the recent fire scare at Hobbs Cafe, implementing new safety measures, offering support, and planning a study session at the library with Klaus @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Maria, are you okay? That was quite a scare with the fire in the cooking area. I'm glad everyone is safe."
+        ],
+        [
+          "Maria Lopez",
+          "Yes, Isabella, that was scary! I'm just glad everyone was able to stay safe. It really makes me think about safety measures in public spaces."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, safety measures are really important. I'm going to make sure we have better fire safety protocols in place moving forward."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. It's great to see everyone here pulling together during emergencies."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, would you like me to get you a drink or something to eat to help you relax after that scare?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I would appreciate a drink to help me relax."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to keep you updated on the new safety measures we are implementing."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I appreciate your efforts in improving safety measures. Do you need any help implementing them?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. Your offer to help is greatly appreciated. I will definitely let you know if I need any assistance with implementing the safety measures."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I'm actually meeting Klaus at the library after I finish here at Hobbs Cafe. We're going to work on our study session together. I'll catch up with you later!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds great, Maria! Enjoy your study session with Klaus at the library. Stay safe and let me know if you need anything."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll definitely keep you updated on our study session with Klaus and how it goes. Have a great day!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I'm glad you're okay and I appreciate your support. Have a great study session with Klaus at the library!"
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I'll make sure to update Klaus about the new safety measures we discussed here. Thank you for your attention to safety."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I appreciate your willingness to update Klaus about the new safety measures. It's great to have support from both of you. Have a productive study session at the library!"
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, before I go, could you remind me of the new safety measures you discussed so I can update Klaus about them at the library?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about discussing the recent fire scare at Hobbs Cafe, implementing new safety measures, offering support, and planning a study session at the library with Klaus @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Maria, are you okay? That was quite a scare with the fire in the cooking area. I'm glad everyone is safe."
+        ],
+        [
+          "Maria Lopez",
+          "Yes, Isabella, that was scary! I'm just glad everyone was able to stay safe. It really makes me think about safety measures in public spaces."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, safety measures are really important. I'm going to make sure we have better fire safety protocols in place moving forward."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. It's great to see everyone here pulling together during emergencies."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, would you like me to get you a drink or something to eat to help you relax after that scare?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I would appreciate a drink to help me relax."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to keep you updated on the new safety measures we are implementing."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I appreciate your efforts in improving safety measures. Do you need any help implementing them?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. Your offer to help is greatly appreciated. I will definitely let you know if I need any assistance with implementing the safety measures."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I'm actually meeting Klaus at the library after I finish here at Hobbs Cafe. We're going to work on our study session together. I'll catch up with you later!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds great, Maria! Enjoy your study session with Klaus at the library. Stay safe and let me know if you need anything."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll definitely keep you updated on our study session with Klaus and how it goes. Have a great day!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I'm glad you're okay and I appreciate your support. Have a great study session with Klaus at the library!"
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I'll make sure to update Klaus about the new safety measures we discussed here. Thank you for your attention to safety."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I appreciate your willingness to update Klaus about the new safety measures. It's great to have support from both of you. Have a productive study session at the library!"
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, before I go, could you remind me of the new safety measures you discussed so I can update Klaus about them at the library?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:26:20"
+  }
+}

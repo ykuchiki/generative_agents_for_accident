@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd25",
+      "description": "Tackle fire immediately @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are making plans to meet up at Hobbs Cafe tomorrow at 3pm to discuss Klaus's research findings on the impact of gentrification on community services, with Klaus bringing his laptop to show data and Maria preparing questions for the discussion. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's coming along. I'm working on the section about the impact of gentrification on community services."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds interesting, I'd love to hear more about your research findings."
+        ],
+        [
+          "Klaus Mueller",
+          "I'd be happy to share my research findings with you! How about we grab a coffee sometime and I can tell you all about it?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great! How about we meet at Hobbs Cafe tomorrow around 3pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! I'll see you at Hobbs Cafe tomorrow at 3pm."
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to our coffee meet-up tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll see you tomorrow at 3pm, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you tomorrow at 3pm, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to discussing my research on gentrification with you tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to come prepared with questions for you tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Should I bring my laptop to show you some of the data I've collected?"
+        ],
+        [
+          "Maria Lopez",
+          "That would be helpful, Klaus. Looking forward to our coffee meet-up tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Perfect, I'll make sure to bring my laptop tomorrow then. See you at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "See you tomorrow at 3pm, Klaus! Have a great rest of your day."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to our coffee meet-up! I'll make sure to bring some of the key articles related to my research findings as well."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are making plans to meet up at Hobbs Cafe tomorrow at 3pm to discuss Klaus's research findings on the impact of gentrification on community services, with Klaus bringing his laptop to show data and Maria preparing questions for the discussion. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's coming along. I'm working on the section about the impact of gentrification on community services."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds interesting, I'd love to hear more about your research findings."
+        ],
+        [
+          "Klaus Mueller",
+          "I'd be happy to share my research findings with you! How about we grab a coffee sometime and I can tell you all about it?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great! How about we meet at Hobbs Cafe tomorrow around 3pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! I'll see you at Hobbs Cafe tomorrow at 3pm."
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to our coffee meet-up tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll see you tomorrow at 3pm, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you tomorrow at 3pm, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to discussing my research on gentrification with you tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to come prepared with questions for you tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Should I bring my laptop to show you some of the data I've collected?"
+        ],
+        [
+          "Maria Lopez",
+          "That would be helpful, Klaus. Looking forward to our coffee meet-up tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Perfect, I'll make sure to bring my laptop tomorrow then. See you at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "See you tomorrow at 3pm, Klaus! Have a great rest of your day."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to our coffee meet-up! I'll make sure to bring some of the key articles related to my research findings as well."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:05:30"
+  }
+}

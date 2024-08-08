@@ -1,0 +1,274 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 13:04:50",
+  "curr_tile": [
+    127,
+    50
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm, goes cafe around 12:30 pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 114,
+  "importance_ele_n": 9,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "have breakfast at 7:30 am",
+    "go to the library at Oak Hill College at 8:00 am",
+    "spend the day writing at the library",
+    "take a break for lunch at 12:30 pm at Hobbs Cafe",
+    "continue writing until 5:00 pm",
+    "have dinner at 5:30 pm",
+    "relax and watch TV from 7:00 pm to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "at the library at Oak Hill College, researching for his paper",
+      60
+    ],
+    [
+      "still at the library, taking a break for lunch at 12:30 pm at Hobbs Cafe",
+      60
+    ],
+    [
+      "still at the library, writing his paper",
+      60
+    ],
+    [
+      "still at the library, taking a break for lunch at 12:30 pm at Hobbs Cafe",
+      60
+    ],
+    [
+      "still at the library, writing his paper (on the way to still at the library, writing his pape)",
+      120
+    ],
+    [
+      "still at the library, writing his paper (conversing about Maria Lopez and Klaus Mueller are discussing the effects of gentrification in low-income communities, sharing surprising findings, proposing solutions involving community-led initiatives and affordable housing, planning to partner with local organizations, and arranging to meet at Hobbs Cafe to discuss further.)",
+      9
+    ],
+    [
+      "still at the library, taking a break for lunch at 12:30 pm at Hobbs Cafe (packing up his materials and heading to Hobbs Cafe)",
+      5
+    ],
+    [
+      "still at the library, taking a break for lunch at 12:30 pm at Hobbs Cafe (ordering his lunch at Hobbs Cafe)",
+      10
+    ],
+    [
+      "still at the library, taking a break for lunch at 12:30 pm at Hobbs Cafe (eating his lunch and taking a break)",
+      30
+    ],
+    [
+      "still at the library, taking a break for lunch at 12:30 pm at Hobbs Cafe (reviewing his notes and brainstorming ideas for his paper)",
+      10
+    ],
+    [
+      "still at the library, taking a break for lunch at 12:30 pm at Hobbs Cafe (packing up his materials and heading back to the library)",
+      5
+    ],
+    [
+      "still at the library, writing his paper",
+      240
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "relaxing and watching TV",
+      60
+    ],
+    [
+      "finishing up any remaining work for his paper",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "at the library at Oak Hill College, researching for his paper",
+      60
+    ],
+    [
+      "still at the library, taking a break for lunch at 12:30 pm at Hobbs Cafe",
+      60
+    ],
+    [
+      "still at the library, writing his paper",
+      60
+    ],
+    [
+      "still at the library, taking a break for lunch at 12:30 pm at Hobbs Cafe",
+      60
+    ],
+    [
+      "still at the library, writing his paper",
+      120
+    ],
+    [
+      "still at the library, taking a break for lunch at 12:30 pm at Hobbs Cafe",
+      60
+    ],
+    [
+      "still at the library, writing his paper",
+      240
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "relaxing and watching TV",
+      60
+    ],
+    [
+      "finishing up any remaining work for his paper",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ]
+  ],
+  "act_address": "<persona> Maria Lopez",
+  "act_start_time": "February 13, 2023, 13:01:10",
+  "act_duration": 9,
+  "act_description": "conversing about Maria Lopez and Klaus Mueller are discussing the effects of gentrification in low-income communities, sharing surprising findings, proposing solutions involving community-led initiatives and affordable housing, planning to partner with local organizations, and arranging to meet at Hobbs Cafe to discuss further.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Klaus Mueller",
+    "chat with",
+    "Maria Lopez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Maria Lopez",
+  "chat": [
+    [
+      "Maria Lopez",
+      "Hey Klaus, how's the paper going?"
+    ],
+    [
+      "Klaus Mueller",
+      "Hey Maria, the paper is going well. I'm almost done with my research on the effects of gentrification in low-income communities. It's been a really fascinating process."
+    ],
+    [
+      "Maria Lopez",
+      "That sounds really interesting. Have you come across any surprising findings?"
+    ],
+    [
+      "Klaus Mueller",
+      "Yes, actually I did. I found out that in some cases, gentrification can lead to cultural erasure in these communities. It's quite a concerning trend."
+    ],
+    [
+      "Maria Lopez",
+      "That's really eye-opening. Have you thought about potential solutions to combat this issue?"
+    ],
+    [
+      "Klaus Mueller",
+      "I've been thinking about that actually. I believe community-led initiatives and policies that prioritize affordable housing can help address this problem."
+    ],
+    [
+      "Maria Lopez",
+      "That makes a lot of sense. Have you considered partnering with local organizations to implement these solutions?"
+    ],
+    [
+      "Klaus Mueller",
+      "Yes, that's a great idea, Maria. I'll definitely look into partnering with local organizations to implement these solutions."
+    ],
+    [
+      "Maria Lopez",
+      "That sounds like a solid plan. I actually know a few organizations in the area that focus on affordable housing and community development. I can introduce you to them if you're interested."
+    ],
+    [
+      "Klaus Mueller",
+      "Thank you so much, Maria. I would really appreciate that. Let's connect after I finish up my paper."
+    ],
+    [
+      "Maria Lopez",
+      "Great! I'll reach out to those organizations today and get back to you with more information. Good luck finishing up your paper!"
+    ],
+    [
+      "Klaus Mueller",
+      "Thank you so much, Maria. I would really appreciate that. Let's connect after I finish up my paper."
+    ],
+    [
+      "Maria Lopez",
+      "Good luck with finishing up your paper, Klaus. Looking forward to discussing potential solutions further."
+    ],
+    [
+      "Klaus Mueller",
+      "Thank you, Maria. I'm excited to learn more about these organizations and work towards implementing solutions."
+    ],
+    [
+      "Maria Lopez",
+      "Let me know when you're done with your paper, we can grab a coffee at Hobbs Cafe and discuss further."
+    ],
+    [
+      "Klaus Mueller",
+      "Thank you, Maria. I look forward to discussing potential solutions further over coffee at Hobbs Cafe."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Maria Lopez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 13:11:00",
+  "act_path_set": true,
+  "planned_path": []
+}

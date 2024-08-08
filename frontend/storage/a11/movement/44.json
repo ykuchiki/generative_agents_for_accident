@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still working at the counter, taking orders and chatting with customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller discussing working on Klaus's paper, with Maria offering to help find missing sources and suggesting grabbing a coffee and snack at Hobbs Cafe before heading to the library. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper going? Need any help?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. It's going well, but I'm struggling with a few sources. Do you mind taking a look?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd be happy to help. Let's take a look together."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Maria. I really appreciate your help."
+        ],
+        [
+          "Maria Lopez",
+          "Let's head over to the library together and work on it there. I think we can find those sources you need."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria. Thank you for being so willing to help."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head over to the library now."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we grab a quick bite to eat before heading to the library?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, we can grab a quick snack at Hobbs Cafe before heading to the library. It's right by here."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan. I could use a coffee to boost my energy as well."
+        ],
+        [
+          "Maria Lopez",
+          "Let's go grab a coffee and head to the library. I think that will help us focus better."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for suggesting to grab coffee, Maria. I appreciate it."
+        ],
+        [
+          "Maria Lopez",
+          "Let's sit down at a table and start working on your paper. I'll do my best to help you find those sources."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Maria. I honestly don't know what I would do without your help."
+        ],
+        [
+          "Maria Lopez",
+          "Let's start by looking at the sources you have so far. I can help you figure out which ones are missing and where you might be able to find them."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for offering to help, Maria. I appreciate it more than you know."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller discussing working on Klaus's paper, with Maria offering to help find missing sources and suggesting grabbing a coffee and snack at Hobbs Cafe before heading to the library. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper going? Need any help?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. It's going well, but I'm struggling with a few sources. Do you mind taking a look?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd be happy to help. Let's take a look together."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Maria. I really appreciate your help."
+        ],
+        [
+          "Maria Lopez",
+          "Let's head over to the library together and work on it there. I think we can find those sources you need."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria. Thank you for being so willing to help."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head over to the library now."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we grab a quick bite to eat before heading to the library?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, we can grab a quick snack at Hobbs Cafe before heading to the library. It's right by here."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan. I could use a coffee to boost my energy as well."
+        ],
+        [
+          "Maria Lopez",
+          "Let's go grab a coffee and head to the library. I think that will help us focus better."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for suggesting to grab coffee, Maria. I appreciate it."
+        ],
+        [
+          "Maria Lopez",
+          "Let's sit down at a table and start working on your paper. I'll do my best to help you find those sources."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Maria. I honestly don't know what I would do without your help."
+        ],
+        [
+          "Maria Lopez",
+          "Let's start by looking at the sources you have so far. I can help you figure out which ones are missing and where you might be able to find them."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for offering to help, Maria. I appreciate it more than you know."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:07:20"
+  }
+}

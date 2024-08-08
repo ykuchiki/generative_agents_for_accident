@@ -1,0 +1,3 @@
+71 30 {(Isabella Rodriguez, work, counter, still working at the counter, taking orders and chatting with customers)}
+117 50 {(Klaus Mueller, write, paper, still at the library, writing his paper (on the way to still at the library, writing his pape))}
+118 50 {(Maria Lopez, study, Hobbs Cafe, studying at Hobbs Cafe)}

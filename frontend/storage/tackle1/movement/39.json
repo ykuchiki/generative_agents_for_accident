@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still working at the counter, taking orders and chatting with customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about gentrification and its impacts on low-income communities and the plans for conducting interviews with long-time residents to gather their perspective. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's your paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going pretty well. I've been making some progress on the effects of gentrification in low-income communities."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds really interesting. Have you come across any surprising findings?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, actually. I found that although gentrification is often seen as a positive for urban development, it can have negative impacts on the long-time residents of those communities."
+        ],
+        [
+          "Maria Lopez",
+          "That's really thought-provoking. It's important to consider the multifaceted impacts of urban development."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm planning on interviewing some long-time residents to get their perspective on the issue."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great approach. I would love to hear more about your findings once you've completed the interviews."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I'll definitely share my findings with you once I've completed the interviews."
+        ],
+        [
+          "Maria Lopez",
+          "Good luck with your interviews, Klaus! I'm sure you'll uncover some valuable insights."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I appreciate your support and encouragement."
+        ],
+        [
+          "Maria Lopez",
+          "If you need any help with the interviews or need someone to bounce ideas off of, feel free to reach out to me."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I'll definitely keep that in mind and reach out to you if I need assistance. I really appreciate your offer to help."
+        ],
+        [
+          "Maria Lopez",
+          "Before I forget, do you mind if I join you at the library later to do some studying together?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I would appreciate the company while studying."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll meet you at the library after I finish up here at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I look forward to studying with you at the library later."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about gentrification and its impacts on low-income communities and the plans for conducting interviews with long-time residents to gather their perspective. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's your paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going pretty well. I've been making some progress on the effects of gentrification in low-income communities."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds really interesting. Have you come across any surprising findings?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, actually. I found that although gentrification is often seen as a positive for urban development, it can have negative impacts on the long-time residents of those communities."
+        ],
+        [
+          "Maria Lopez",
+          "That's really thought-provoking. It's important to consider the multifaceted impacts of urban development."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm planning on interviewing some long-time residents to get their perspective on the issue."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great approach. I would love to hear more about your findings once you've completed the interviews."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I'll definitely share my findings with you once I've completed the interviews."
+        ],
+        [
+          "Maria Lopez",
+          "Good luck with your interviews, Klaus! I'm sure you'll uncover some valuable insights."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I appreciate your support and encouragement."
+        ],
+        [
+          "Maria Lopez",
+          "If you need any help with the interviews or need someone to bounce ideas off of, feel free to reach out to me."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I'll definitely keep that in mind and reach out to you if I need assistance. I really appreciate your offer to help."
+        ],
+        [
+          "Maria Lopez",
+          "Before I forget, do you mind if I join you at the library later to do some studying together?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I would appreciate the company while studying."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll meet you at the library after I finish up here at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I look forward to studying with you at the library later."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:06:30"
+  }
+}

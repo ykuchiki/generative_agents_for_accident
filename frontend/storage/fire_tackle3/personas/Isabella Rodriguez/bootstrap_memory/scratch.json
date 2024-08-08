@@ -1,0 +1,315 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 13:29:50",
+  "curr_tile": [
+    76,
+    22
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 30,
+  "innate": "Tackle fire immediately",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is a cafe owner and she likes to talk about my cafe's accident.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am and skips lunch.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 99,
+  "importance_ele_n": 24,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "head to Hobbs Cafe to open at 8:00 am",
+    "work at the cafe until 8:00 pm",
+    "close the cafe and head home",
+    "have dinner and wind down for the evening"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for work",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead",
+      60
+    ],
+    [
+      "working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a short break to have a snack and check in on her employees",
+      60
+    ],
+    [
+      "back at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (on the way to on the way to closing the cafe for her lunch break)",
+      0
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (conversing about fire safety measures and creating a detailed plan including scheduling a meeting, implementing a fire drill, training staff on safety equipment, and establishing an evacuation plan with fire alarms installed throughout Hobbs Cafe.)",
+      11
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (preparing her lunch)",
+      19
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (eating her lunch)",
+      10
+    ],
+    [
+      "finishing up paperwork and preparing for the meeting on fire safety measures.",
+      20
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (checking and responding to emails from suppliers)",
+      10
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (updating the cafe's inventory list)",
+      15
+    ],
+    [
+      "back at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break to have dinner and catch up on some paperwork for the cafe",
+      60
+    ],
+    [
+      "closing up the cafe and heading home",
+      60
+    ],
+    [
+      "having dinner and catching up on paperwork for the cafe",
+      60
+    ],
+    [
+      "winding down for the evening and getting ready for bed",
+      60
+    ],
+    [
+      "relaxing and unwinding before going to bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm, ready to start the same routine tomorrow",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for work",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead",
+      60
+    ],
+    [
+      "working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a short break to have a snack and check in on her employees",
+      60
+    ],
+    [
+      "back at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe",
+      60
+    ],
+    [
+      "back at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break to have dinner and catch up on some paperwork for the cafe",
+      60
+    ],
+    [
+      "closing up the cafe and heading home",
+      60
+    ],
+    [
+      "having dinner and catching up on paperwork for the cafe",
+      60
+    ],
+    [
+      "winding down for the evening and getting ready for bed",
+      60
+    ],
+    [
+      "relaxing and unwinding before going to bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm, ready to start the same routine tomorrow",
+      60
+    ]
+  ],
+  "act_address": "<persona> Maria Lopez",
+  "act_start_time": "February 13, 2023, 13:22:40",
+  "act_duration": 11,
+  "act_description": "conversing about fire safety measures and creating a detailed plan including scheduling a meeting, implementing a fire drill, training staff on safety equipment, and establishing an evacuation plan with fire alarms installed throughout Hobbs Cafe.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "chat with",
+    "Maria Lopez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Maria Lopez",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "Maria, I'm so grateful you were here when the fire broke out. It was quite a scare, but thankfully, we were able to tackle it quickly."
+    ],
+    [
+      "Maria Lopez",
+      "I'm just glad everyone is safe. How did you notice the fire so quickly?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I was in the cooking area and noticed the flames out of the corner of my eye. I immediately grabbed the fire extinguisher and put it out."
+    ],
+    [
+      "Maria Lopez",
+      "Is there anything specific that caused the fire, or was it just a random occurrence?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "It seems like there was a small electrical issue with one of the appliances in the cooking area. We had a technician come in and fix it, so hopefully, it won't happen again."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, do you think we should have a fire safety plan in place in case something like this happens again?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Maria, that is a great idea. I think we should definitely create a fire safety plan to ensure everyone's safety. Let's discuss it further and come up with a detailed plan."
+    ],
+    [
+      "Maria Lopez",
+      "That sounds like a good plan. Let's schedule a meeting with everyone at Hobbs Cafe to discuss and implement the fire safety plan."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Let's schedule the meeting for tomorrow morning at 10am. That way, we can get everyone's input and ensure we have a comprehensive plan in place."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, I think it would be a good idea to involve everyone in a fire drill so we can practice the safety measures in place. What do you think?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "That's a great idea, Maria. Let's schedule a fire drill for next week to ensure everyone knows what to do in case of an emergency."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, let's also make sure all the staff members are trained on how to properly use the fire extinguishers and other safety equipment."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Maria, thank you for bringing up the idea of training the staff on fire safety equipment. I think it's crucial for everyone to be prepared in case of an emergency. Let's make sure we include that in our plan."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, I think it would also be beneficial to have an evacuation plan in place in case of a fire emergency. We should designate specific escape routes and meeting points for everyone to ensure a safe exit."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Maria, I agree with you. Let's create a detailed evacuation plan with designated escape routes and meeting points to ensure everyone's safety."
+    ],
+    [
+      "Maria Lopez",
+      "Isabella, let's also make sure we have fire alarms installed throughout the cafe to ensure early detection of any potential fire hazards."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Maria Lopez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 13:34:00",
+  "act_path_set": true,
+  "planned_path": []
+}

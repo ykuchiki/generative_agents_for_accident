@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella and Maria, chatting about studying, coffee breaks, looking for Klaus, and offering help while Maria studies for her physics exam @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's the studying going? Need a break or a coffee refill?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I could use a coffee refill, thank you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure thing, one coffee refill coming right up! How's your day been so far?"
+        ],
+        [
+          "Maria Lopez",
+          "My day has been pretty good so far, just studying for my physics exam. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Good luck with your physics exam! If you need any more coffee or a snack to keep you going, just let me know."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I appreciate it. By the way, have you seen Klaus around today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't seen Klaus today, but I'll keep an eye out for him. Let me know if you need anything else while you study."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella. I'll keep studying for now, but I'll definitely let you know if I need anything else."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Good luck with your studying, Maria! I'll be here if you need anything."
+        ],
+        [
+          "Maria Lopez",
+          "Actually, I wanted to ask if you've heard from Klaus lately. We were supposed to meet up to work on his paper at the library."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't heard from Klaus lately, but I can try contacting him for you if you'd like."
+        ],
+        [
+          "Maria Lopez",
+          "Yes, please! If you could try contacting Klaus for me, that would be really helpful. I appreciate it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll send Klaus a message right now and let you know if he replies."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella. I really appreciate your help!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I just sent a message to Klaus, so hopefully he'll reply soon. In the meantime, let me know if you need anything else while you study."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll keep studying for now and wait for Klaus's reply. I'll let you know if I need anything else."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella and Maria, chatting about studying, coffee breaks, looking for Klaus, and offering help while Maria studies for her physics exam @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's the studying going? Need a break or a coffee refill?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I could use a coffee refill, thank you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure thing, one coffee refill coming right up! How's your day been so far?"
+        ],
+        [
+          "Maria Lopez",
+          "My day has been pretty good so far, just studying for my physics exam. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Good luck with your physics exam! If you need any more coffee or a snack to keep you going, just let me know."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I appreciate it. By the way, have you seen Klaus around today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't seen Klaus today, but I'll keep an eye out for him. Let me know if you need anything else while you study."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella. I'll keep studying for now, but I'll definitely let you know if I need anything else."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Good luck with your studying, Maria! I'll be here if you need anything."
+        ],
+        [
+          "Maria Lopez",
+          "Actually, I wanted to ask if you've heard from Klaus lately. We were supposed to meet up to work on his paper at the library."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't heard from Klaus lately, but I can try contacting him for you if you'd like."
+        ],
+        [
+          "Maria Lopez",
+          "Yes, please! If you could try contacting Klaus for me, that would be really helpful. I appreciate it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll send Klaus a message right now and let you know if he replies."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella. I really appreciate your help!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I just sent a message to Klaus, so hopefully he'll reply soon. In the meantime, let me know if you need anything else while you study."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll keep studying for now and wait for Klaus's reply. I'll let you know if I need anything else."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:24:40"
+  }
+}

@@ -1,0 +1,54 @@
+generate_obj_status_v2.txt
+
+Variables:
+!<INPUT 0>! -- Object name
+!<INPUT 1>! -- Persona name
+!<INPUT 2>! -- Inserted action
+!<INPUT 3>! -- Object current state
+!<INPUT 4>! -- Object name
+!<INPUT 5>! -- action full address
+
+<commentblockmarker>###</commentblockmarker>
+Example 1:
+Task: Determine the resulting state of an object after an action is performed by a persona.
+Consider if the action directly affects the object or fully resolves a problem.
+
+Let's think step by step.
+We want to know about the new state of cup.
+Step 1. John is performing the action "cleaning" on cup.
+Step 2. The cup is currently dirty.
+Step 3. The action takes place at the following address: the Ville:Hobbs Cafe:cafe:kitchen sink.
+Step 4. Describe the resulting state of the cup with a short phrase: cup is clean.
+
+Example 2:
+Task: Determine the resulting state of an object after an action is performed by a persona.
+Consider if the action directly affects the object or fully resolves a problem.
+
+Let's think step by step.
+We want to know about the new state of table.
+Step 1. Isabella is performing the action "fleeing" from fire.
+Step 2. The table is currently burning.
+Step 3. The action takes place at the following address: the Ville:Hobbs Cafe:cafe:table.
+Step 4. Describe the fire's state after the action: table is engulfed in fire and the fire is spreading.
+
+Example 3:
+Task: Determine the resulting state of an object after an action is performed by a persona.
+Consider if the action directly affects the object or fully resolves a problem.
+
+Let's think step by step.
+We want to know about the new state of kitchen.
+Step 1. Mike is performing the action "cooking".
+Step 2. The kitchen is currently filled with smoke.
+Step 3. The action takes place at the following address: the Ville:Hobbs Cafe:cafe:kitchen.
+Step 4. Describe the kitchen's state after the action: kitchen is filled with smoke and chaos due to the ongoing fire.
+---
+
+Task: Determine the resulting state of an object after an action is performed by a persona.
+Consider if the action directly affects the object or fully resolves a problem.
+
+Let's think step by step.
+We want to know about the new state of !<INPUT 0>!.
+Step 1. !<INPUT 1>! is performing the action "!<INPUT 2>!" on !<INPUT 4>!.
+Step 2. The !<INPUT 0>! is currently !<INPUT 3>!.
+Step 3. The action takes place at the following address: !<INPUT 5>!.
+Step 4. Describe the resulting state of the !<INPUT 0>! with a short phrase: !<INPUT 4>! is

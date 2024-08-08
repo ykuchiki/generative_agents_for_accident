@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez are discussing gentrification and its impact on community services, making plans to meet Klaus for a coffee discussion tomorrow at 3pm where Maria will bring extra study material on the topic. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey, Isabella! How's it going today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! Not bad, just another busy day at the cafe. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Just studying for my physics exam tomorrow. By the way, have you heard about gentrification and its impact on community services?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh, that sounds tough. Gentrification is a complex issue for sure. It's definitely something we need to be aware of in our community."
+        ],
+        [
+          "Maria Lopez",
+          "I actually have a coffee meet-up with Klaus tomorrow to discuss his research findings on that topic. Would you be interested in joining us?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to join you and Klaus for the coffee meet-up tomorrow. It sounds like a really interesting discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to save you a seat at the cafe tomorrow at 3pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for thinking of me, Maria. I'm looking forward to the coffee meet-up tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some extra study material on gentrification to share with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's very thoughtful of you, Maria. I appreciate it and I'm excited to learn more about gentrification from Klaus's research findings."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you tomorrow at 3pm then! Thanks for joining us, Isabella."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez are discussing gentrification and its impact on community services, making plans to meet Klaus for a coffee discussion tomorrow at 3pm where Maria will bring extra study material on the topic. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey, Isabella! How's it going today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! Not bad, just another busy day at the cafe. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Just studying for my physics exam tomorrow. By the way, have you heard about gentrification and its impact on community services?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh, that sounds tough. Gentrification is a complex issue for sure. It's definitely something we need to be aware of in our community."
+        ],
+        [
+          "Maria Lopez",
+          "I actually have a coffee meet-up with Klaus tomorrow to discuss his research findings on that topic. Would you be interested in joining us?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to join you and Klaus for the coffee meet-up tomorrow. It sounds like a really interesting discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to save you a seat at the cafe tomorrow at 3pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for thinking of me, Maria. I'm looking forward to the coffee meet-up tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some extra study material on gentrification to share with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's very thoughtful of you, Maria. I appreciate it and I'm excited to learn more about gentrification from Klaus's research findings."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you tomorrow at 3pm then! Thanks for joining us, Isabella."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:23:50"
+  }
+}

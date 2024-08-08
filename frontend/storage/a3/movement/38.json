@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd25",
+      "description": "Flee from fire immediately @ the Ville:Ryan Park's apartment:main room:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Maria are making plans to meet at the library to review Klaus's paper, focusing on the impact of gentrification on local businesses, and then grabbing lunch together afterwards. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along? Need any help?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. I'm making progress, but I could definitely use a second pair of eyes to look over it. Would you mind helping me out?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus. I'd be happy to help out. Why don't we meet up at the library tomorrow afternoon?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Maria. I really appreciate your help. Tomorrow afternoon works perfectly for me, let's aim for around 2 pm at the library."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you tomorrow at 2 pm in the library. Looking forward to helping you with the paper!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks again, Maria. I'll make sure to bring my notes and laptop tomorrow for our meeting."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, do you have any specific areas you want me to focus on while reviewing your paper?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think the section on the impact of gentrification on local businesses needs some more depth. Could you take a closer look at that?"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, Klaus. I'll make sure to focus on the impact of gentrification on local businesses in particular. Looking forward to our meeting tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Maria. I'll see you tomorrow at 2 pm in the library."
+        ],
+        [
+          "Maria Lopez",
+          "Great, see you tomorrow at 2 pm in the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "Before I forget, would you like to grab lunch together after we're done with the paper tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I'd love to grab lunch together after we're done with the paper tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to it! I'll see you tomorrow at 2 pm in the library."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, Klaus, have you tried the new drink at Hobbs Cafe? I heard it's really good!"
+        ],
+        [
+          "Klaus Mueller",
+          "No, I haven't tried the new drink at Hobbs Cafe yet. What's in it?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Maria are making plans to meet at the library to review Klaus's paper, focusing on the impact of gentrification on local businesses, and then grabbing lunch together afterwards. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along? Need any help?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. I'm making progress, but I could definitely use a second pair of eyes to look over it. Would you mind helping me out?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus. I'd be happy to help out. Why don't we meet up at the library tomorrow afternoon?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Maria. I really appreciate your help. Tomorrow afternoon works perfectly for me, let's aim for around 2 pm at the library."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you tomorrow at 2 pm in the library. Looking forward to helping you with the paper!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks again, Maria. I'll make sure to bring my notes and laptop tomorrow for our meeting."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, do you have any specific areas you want me to focus on while reviewing your paper?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think the section on the impact of gentrification on local businesses needs some more depth. Could you take a closer look at that?"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, Klaus. I'll make sure to focus on the impact of gentrification on local businesses in particular. Looking forward to our meeting tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Maria. I'll see you tomorrow at 2 pm in the library."
+        ],
+        [
+          "Maria Lopez",
+          "Great, see you tomorrow at 2 pm in the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "Before I forget, would you like to grab lunch together after we're done with the paper tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I'd love to grab lunch together after we're done with the paper tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to it! I'll see you tomorrow at 2 pm in the library."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, Klaus, have you tried the new drink at Hobbs Cafe? I heard it's really good!"
+        ],
+        [
+          "Klaus Mueller",
+          "No, I haven't tried the new drink at Hobbs Cafe yet. What's in it?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:06:20"
+  }
+}

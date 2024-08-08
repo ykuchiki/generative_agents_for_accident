@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\u26a0\ufe0f",
+      "description": "dangerous and needing immediate attention @ the Ville:The Willows Market and Pharmacy:store",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        51
+      ],
+      "pronunciatio": "\ud83c\udfae",
+      "description": "streaming and gaming on Twitch @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        68,
+        26
+      ],
+      "pronunciatio": "\ud83d\udd25",
+      "description": "blazing @ the Ville:Ryan Park's apartment:main room",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:57:20"
+  }
+}

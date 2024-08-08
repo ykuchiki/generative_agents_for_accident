@@ -1,0 +1,45 @@
+Variables:
+!<INPUT 0>! -- persona name
+!<INPUT 1>! -- living place
+!<INPUT 2>! -- facilities in living place
+!<INPUT 3>! -- persona reference
+!<INPUT 4>! -- current location
+!<INPUT 5>! -- facilities in current location
+!<INPUT 6>! -- additional context or rules
+!<INPUT 7>! -- area options
+!<INPUT 8>! -- persona reference for action
+!<INPUT 9>! -- current activity
+!<INPUT 10>! -- task at hand
+!<INPUT 11>! -- persona reference for decision
+!<INPUT 12>! -- game object
+!<INPUT 13>! -- current state of game object
+!<INPUT 14>! -- full address of game object
+<commentblockmarker>###</commentblockmarker>
+Task -- choose an appropriate area  from the area options for a task at hand.
+
+Sam Kim lives in {Sam Kim's house} that has Sam Kim's room, bathroom, kitchen.
+Sam Kim is currently in {Sam Kim's house} that has Sam Kim's room, bathroom, kitchen.
+Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+Area options: {Sam Kim's house, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Johnson Park, Harvey Oak Supply Store, The Willows Market and Pharmacy}.
+Sam Kim is performing the action: taking a walk because the park is inviting.
+Full address of the game object: the Ville:Johnson Park:park:walking trail
+For taking a walk, Sam Kim should go to the following area: {Johnson Park}
+---
+Jane Anderson lives in {Oak Hill College Student Dormitory} that has Jane Anderson's room.
+Jane Anderson is currently in {Oak Hill College} that has a classroom, library.
+Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+Area options: {Oak Hill College Student Dormitory, The Rose and Crown Pub, Hobbs Cafe, Oak Hill College, Johnson Park, Harvey Oak Supply Store, The Willows Market and Pharmacy}.
+Jane Anderson is performing the action: eating dinner because kitchen is closed.
+Full address of the game object: Oak Hill College:Hobbs Cafe:cafe:dining area
+For eating dinner, Jane Anderson should go to the following area: {Hobbs Cafe}
+
+---
+!<INPUT 0>! lives in {!<INPUT 1>!} that has !<INPUT 2>!.
+!<INPUT 3>! is currently in {!<INPUT 4>!} that has !<INPUT 5>!.
+!<INPUT 6>!
+Area options: {!<INPUT 7>!}.
+* Stay in the current area if the activity can be done there. Only go out if the activity needs to take place in another place.
+* Must be one of the "Area options," verbatim.
+!<INPUT 8>! is performing the action: !<INPUT 9>! because !<INPUT 12>! is !<INPUT 13>!.
+Full address of the game object: !<INPUT 14>!
+For !<INPUT 10>!, !<INPUT 11>! should go to the following area: {

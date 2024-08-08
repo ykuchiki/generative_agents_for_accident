@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+{% block content %}
+<div style="width: 95%; margin: auto; padding-top: 4.5em;">
+    <h1 style="text-align: center; font-size: 2em; color: #333;">エージェントたちの情報</h1>
+    <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+        {% for p in persona_names %}
+        <div style="background-color: #F9F9F9; margin: 1em; flex: 1 0 30%; max-width: 30%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; border-radius: 8px;">
+            <div style="display: flex; align-items: center; margin-bottom: 20px;">
+                <img src="{% static 'assets/characters/profile/'|add:p.underscore|add:'.png' %}" style="width: 60px; margin-right: 15px;">
+                <div>
+                    <h2 style="font-size: 1.5em; margin: 0;">{{ p.original }}</h2>
+                    <a href="{% url 'replay_persona_state' sim_code 0 p.underscore %}" style="display: inline-block; background-color: #007BFF; color: white; padding: 7px 14px; border-radius: 3px; font-size: 0.9em; text-decoration: none; margin-top: 5px;">詳細情報</a>
+                </div>
+            </div>
+            <div>
+                <p style="font-size: 1.6em; color: #555;"><strong>現在の行動:</strong> <br><span id="current_action__{{ p.underscore }}" style="font-size: 0.9em;"></span></p>
+                <p style="font-size: 1.6em; color: #555;"><strong>行動場所:</strong> <br><span id="target_address__{{ p.underscore }}" style="font-size: 0.9em;"></span></p>
+                <p style="font-size: 1.6em; color: #555;"><strong>現在の会話内容:</strong> <br><span id="chat__{{ p.underscore }}" style="font-size: 0.9em;"></span></p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}
+
+{% block js_content %}
+<script>
+    function updateAgentDetails() {
+        fetch('/get_time_value/')
+            .then(response => response.json())
+            .then(data => {
+                const step = data.step;
+                const promises = [];
+
+                {% for p in persona_names %}
+                (function(p) {
+                    const promise = fetch(`/agent_detail_data/${p.underscore}/${step}/{{ sim_code }}`)
+                        .then(response => {
+                            if (!response.ok) {
+                                throw new Error('Network response was not ok');
+                            }
+                            return response.json();
+                        })
+                        .then(agentData => {
+                            // データの分割と表示
+                            document.getElementById(`current_action__${p.underscore}`).textContent = agentData.current_action;
+                            document.getElementById(`target_address__${p.underscore}`).innerHTML = agentData.target_address.replace(/<persona>/g, ''); // <persona>タグを削除
+                            document.getElementById(`chat__${p.underscore}`).innerHTML = agentData.chat.replace(/<persona>/g, ''); // <persona>タグを削除
+                        })
+                        .catch(error => {
+                            console.error(`Error fetching agent data for ${p.underscore}:`, error);
+                        });
+                    promises.push(promise);
+                })({
+                    original: "{{ p.original }}",
+                    underscore: "{{ p.underscore }}",
+                    initial: "{{ p.initial }}"
+                });
+                {% endfor %}
+
+                return Promise.all(promises);
+            })
+            .catch(error => {
+                console.error('Error fetching time data:', error);
+            });
+    }
+
+
+
+    // 定期的にエージェントの詳細情報を更新
+    setInterval(updateAgentDetails, 500);  // 更新間隔を500ミリ秒に設定してリアルタイム更新
+</script>
+{% endblock js_content %}

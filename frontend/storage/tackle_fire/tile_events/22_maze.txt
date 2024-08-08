@@ -1,0 +1,3 @@
+78 19 {(Isabella Rodriguez, work, counter, still working at the counter, taking orders and chatting with customers), (the Ville:Hobbs Cafe:cafe:behind the cafe counter, is, busy and bustling with activity, busy and bustling with activity)}
+127 50 {(Klaus Mueller, chat with, Maria Lopez, conversing about time management and balancing studies with Twitch streaming between Maria Lopez and Klaus Mueller leading to plans for a coffee meeting)}
+128 50 {(Maria Lopez, chat with, Klaus Mueller, conversing about time management and balancing studies with Twitch streaming between Maria Lopez and Klaus Mueller leading to plans for a coffee meeting)}

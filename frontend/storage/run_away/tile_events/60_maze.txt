@@ -1,0 +1,5 @@
+75 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+76 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+78 19 {(the Ville:Hobbs Cafe:cafe:behind the cafe counter, is, busy and bustling, busy and bustling), (Isabella Rodriguez, work, counter, still working at the counter, taking orders and chatting with customers)}
+121 50 {(Klaus Mueller, write, paper, still at the library, writing his paper (on the way to still at the library, writing his pape))}
+122 50 {(Maria Lopez, study, Hobbs Cafe, studying at Hobbs Cafe)}

@@ -1,0 +1,4 @@
+75 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+76 19 {(the Ville:Hobbs Cafe:cafe:cooking area, tackle, fire, in use by Isabella Rodriguez), (the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+127 50 {(Klaus Mueller, chat with, Maria Lopez, conversing about Maria Lopez and Klaus Mueller are making plans to meet up at Hobbs Cafe tomorrow at 3pm to discuss Klaus's research findings on the impact of gentrification on community services, with Klaus bringing his laptop to show data and Maria preparing questions for the discussion.)}
+128 50 {(Maria Lopez, chat with, Klaus Mueller, conversing about Maria Lopez and Klaus Mueller are making plans to meet up at Hobbs Cafe tomorrow at 3pm to discuss Klaus's research findings on the impact of gentrification on community services, with Klaus bringing his laptop to show data and Maria preparing questions for the discussion.)}

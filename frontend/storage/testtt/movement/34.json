@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd25",
+      "description": "put out the fire @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about discussing gentrification and its impacts on marginalized communities, exchanging ideas on incorporating case studies into Klaus' paper, and planning to continue their conversation over coffee at Hobbs Cafe @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your paper going? Need any help?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's going well, just trying to finish up a few more sections. Any insights on gentrification you think I should include?"
+        ],
+        [
+          "Maria Lopez",
+          "I think discussing the impact of gentrification on marginalized communities could be a valuable addition to your paper. Have you looked into any case studies?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great idea, Maria. I'll definitely look into incorporating case studies on the impact of gentrification on marginalized communities. Thanks for the suggestion!"
+        ],
+        [
+          "Maria Lopez",
+          "Let me know if you need any help with finding resources for your paper on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I appreciate your offer. I'll definitely let you know if I need help with finding resources for my paper on gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to grab a coffee and discuss more about gentrification and its impacts on marginalized communities?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. Let's head over to Hobbs Cafe and continue our conversation."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head over to Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's grab our stuff and head over to Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Let's head to Hobbs Cafe and dive deeper into the topic of gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really looking forward to discussing this further over some coffee, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Let's go to Hobbs Cafe and dive deeper into the topic of gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's go grab a table at Hobbs Cafe and continue our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Let's order some coffee and start brainstorming on how we can incorporate those case studies into your paper."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I'm excited to dive deeper into this topic with you over some coffee at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about discussing gentrification and its impacts on marginalized communities, exchanging ideas on incorporating case studies into Klaus' paper, and planning to continue their conversation over coffee at Hobbs Cafe @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your paper going? Need any help?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's going well, just trying to finish up a few more sections. Any insights on gentrification you think I should include?"
+        ],
+        [
+          "Maria Lopez",
+          "I think discussing the impact of gentrification on marginalized communities could be a valuable addition to your paper. Have you looked into any case studies?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great idea, Maria. I'll definitely look into incorporating case studies on the impact of gentrification on marginalized communities. Thanks for the suggestion!"
+        ],
+        [
+          "Maria Lopez",
+          "Let me know if you need any help with finding resources for your paper on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I appreciate your offer. I'll definitely let you know if I need help with finding resources for my paper on gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to grab a coffee and discuss more about gentrification and its impacts on marginalized communities?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. Let's head over to Hobbs Cafe and continue our conversation."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head over to Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's grab our stuff and head over to Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Let's head to Hobbs Cafe and dive deeper into the topic of gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really looking forward to discussing this further over some coffee, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Let's go to Hobbs Cafe and dive deeper into the topic of gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's go grab a table at Hobbs Cafe and continue our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Let's order some coffee and start brainstorming on how we can incorporate those case studies into your paper."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I'm excited to dive deeper into this topic with you over some coffee at Hobbs Cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:05:40"
+  }
+}

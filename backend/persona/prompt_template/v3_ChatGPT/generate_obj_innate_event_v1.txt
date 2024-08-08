@@ -1,0 +1,46 @@
+generate_obj_innate_event_v1.txt
+
+Variables:
+!<INPUT 0>! -- Object name
+!<INPUT 1>! -- Persona name
+!<INPUT 2>! -- Persona action event description
+!<INPUT 3>! -- Persona personality
+
+
+<commentblockmarker>###</commentblockmarker>
+---
+Example 1:
+Task: We want to understand the action taken by someone with a certain personality towards an object.
+
+Let's think step by step.
+We want to know about the action taken towards a cup.
+Step 1. The cup is described as fragile and delicate.
+Step 2. John is careful, patient, and gentle.
+Step 3. Describe the action: you handle with care
+
+Example 2:
+Task: We want to understand the action taken by someone with a certain personality towards an object.
+
+Let's think step by step.
+We want to know about the action taken towards a locked door.
+Step 1. The door is described as sturdy and secure.
+Step 2. Sarah is determined, meticulous, and resourceful.
+Step 3. Describe the action: you pick the lock
+
+Example 3:
+Task: We want to understand the action taken by someone with a certain personality towards an object.
+
+Let's think step by step.
+We want to know about the action taken towards a messy room.
+Step 1. The room is described as cluttered and chaotic.
+Step 2. Emily is organized, efficient, and proactive.
+Step 3. Describe the action: you tidy up
+---
+
+Task: We want to understand the action taken by someone with a certain personality towards an object.
+
+Let's think step by step.
+We want to know about the action taken towards a !<INPUT 0>!.
+Step 1. The !<INPUT 0>! is described as !<INPUT 1>!.
+Step 2. !<INPUT 2>! is !<INPUT 3>!.
+Step 3. Describe the action: you

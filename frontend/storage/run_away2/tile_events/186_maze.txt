@@ -1,0 +1,5 @@
+75 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+76 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+75 22 {(Maria Lopez, chat with, Isabella Rodriguez, conversing about creating a comprehensive safety plan, conducting safety drills, updating safety equipment, and ensuring all staff are well-prepared in case of emergencies to prioritize safety at Hobbs Cafe, between Isabella Rodriguez and Maria Lopez.)}
+76 22 {(Isabella Rodriguez, chat with, Maria Lopez, conversing about creating a comprehensive safety plan, conducting safety drills, updating safety equipment, and ensuring all staff are well-prepared in case of emergencies to prioritize safety at Hobbs Cafe, between Isabella Rodriguez and Maria Lopez.)}
+119 24 {(the Ville:Oak Hill College:library:library table, library table, is, being used), (Klaus Mueller, write, paper, still at the library, writing his paper (on the way to still at the library, writing his pape))}

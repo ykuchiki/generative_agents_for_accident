@@ -1,0 +1,315 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 13:29:50",
+  "curr_tile": [
+    76,
+    21
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 30,
+  "innate": "Tackle fire immediately",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is a cafe owner and she likes to talk about my cafe's accident.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am and skips lunch.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 83,
+  "importance_ele_n": 33,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "head to Hobbs Cafe to open at 8:00 am",
+    "work at the cafe until 8:00 pm",
+    "close the cafe and head home",
+    "have dinner and wind down for the evening"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for work",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead",
+      60
+    ],
+    [
+      "working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a short break to have a snack and check in on her employees",
+      60
+    ],
+    [
+      "back at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (on the way to on the way to closing the cafe for her lunch break)",
+      0
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (conversing about two friends, Isabella and Maria, chatting about studying, coffee breaks, looking for Klaus, and offering help while Maria studies for her physics exam)",
+      8
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (preparing her lunch)",
+      10
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (eating her lunch)",
+      20
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (checking and responding to emails from suppliers)",
+      10
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe (updating the cafe's inventory list)",
+      12
+    ],
+    [
+      "back at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break to have dinner and catch up on some paperwork for the cafe",
+      60
+    ],
+    [
+      "closing up the cafe and heading home",
+      60
+    ],
+    [
+      "having dinner and catching up on paperwork for the cafe",
+      60
+    ],
+    [
+      "winding down for the evening and getting ready for bed",
+      60
+    ],
+    [
+      "relaxing and unwinding before going to bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm, ready to start the same routine tomorrow",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for work",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead",
+      60
+    ],
+    [
+      "working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a short break to have a snack and check in on her employees",
+      60
+    ],
+    [
+      "back at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break to have lunch and catch up on some paperwork for the cafe",
+      60
+    ],
+    [
+      "back at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break to have dinner and catch up on some paperwork for the cafe",
+      60
+    ],
+    [
+      "closing up the cafe and heading home",
+      60
+    ],
+    [
+      "having dinner and catching up on paperwork for the cafe",
+      60
+    ],
+    [
+      "winding down for the evening and getting ready for bed",
+      60
+    ],
+    [
+      "relaxing and unwinding before going to bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm, ready to start the same routine tomorrow",
+      60
+    ]
+  ],
+  "act_address": "<persona> Maria Lopez",
+  "act_start_time": "February 13, 2023, 13:21:40",
+  "act_duration": 8,
+  "act_description": "conversing about two friends, Isabella and Maria, chatting about studying, coffee breaks, looking for Klaus, and offering help while Maria studies for her physics exam",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "chat with",
+    "Maria Lopez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Maria Lopez",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "Hey Maria, how's the studying going? Need a break or a coffee refill?"
+    ],
+    [
+      "Maria Lopez",
+      "Hey Isabella! I could use a coffee refill, thank you."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Sure thing, one coffee refill coming right up! How's your day been so far?"
+    ],
+    [
+      "Maria Lopez",
+      "My day has been pretty good so far, just studying for my physics exam. How about you?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Good luck with your physics exam! If you need any more coffee or a snack to keep you going, just let me know."
+    ],
+    [
+      "Maria Lopez",
+      "Thank you, Isabella. I appreciate it. By the way, have you seen Klaus around today?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I haven't seen Klaus today, but I'll keep an eye out for him. Let me know if you need anything else while you study."
+    ],
+    [
+      "Maria Lopez",
+      "Thanks, Isabella. I'll keep studying for now, but I'll definitely let you know if I need anything else."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Good luck with your studying, Maria! I'll be here if you need anything."
+    ],
+    [
+      "Maria Lopez",
+      "Actually, I wanted to ask if you've heard from Klaus lately. We were supposed to meet up to work on his paper at the library."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I haven't heard from Klaus lately, but I can try contacting him for you if you'd like."
+    ],
+    [
+      "Maria Lopez",
+      "Yes, please! If you could try contacting Klaus for me, that would be really helpful. I appreciate it."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'll send Klaus a message right now and let you know if he replies."
+    ],
+    [
+      "Maria Lopez",
+      "Thank you so much, Isabella. I really appreciate your help!"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I just sent a message to Klaus, so hopefully he'll reply soon. In the meantime, let me know if you need anything else while you study."
+    ],
+    [
+      "Maria Lopez",
+      "Thank you, Isabella. I'll keep studying for now and wait for Klaus's reply. I'll let you know if I need anything else."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Maria Lopez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 13:30:00",
+  "act_path_set": true,
+  "planned_path": []
+}

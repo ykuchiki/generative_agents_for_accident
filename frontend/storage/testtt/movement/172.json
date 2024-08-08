@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez discussing Maria's studying progress, offering coffee and resources on gentrification and marginalized communities, with Maria planning to meet Klaus to discuss the topic later. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's your studying going? Need any more coffee to keep you going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, studying is going well. I think I'm good on coffee for now, thanks! Just finishing up some physics notes before meeting Klaus later."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria. Let me know if you need anything else. Good luck with your physics notes and have a great time meeting Klaus later!"
+        ],
+        [
+          "Maria Lopez",
+          "Actually, Isabella, do you have any recommendations for places to find resources on gentrification and marginalized communities? I'm meeting Klaus later to discuss it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh, Maria, that's an important topic. You should check out the local library or the university database for resources on gentrification and marginalized communities. I'm sure they'll have some valuable information for your discussion with Klaus."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks for the suggestions, Isabella. I'll definitely check out the local library and university database for resources on gentrification and marginalized communities."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know how the discussion with Klaus goes, Maria. I'd love to hear more about it."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella. I appreciate the support. I'll definitely update you on how the discussion with Klaus goes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "If you need any more coffee or snacks while you study, just let me know. I'm here all day."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella. I might take you up on that offer for more coffee later. I really appreciate your help!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Feel free to stay as long as you need, Maria. I'm happy to provide a comfortable space for you to study."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll take you up on that offer for more coffee now, actually."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Here's your coffee, Maria. Enjoy your study session and let me know if you need anything else!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella. I really appreciate your support and the coffee. I'll make sure to update you on how the discussion with Klaus goes. Have a great day!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know how the discussion with Klaus goes, Maria. I'd love to hear more about it."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll make sure to update you on how the discussion with Klaus goes. Have a great day!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez discussing Maria's studying progress, offering coffee and resources on gentrification and marginalized communities, with Maria planning to meet Klaus to discuss the topic later. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's your studying going? Need any more coffee to keep you going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, studying is going well. I think I'm good on coffee for now, thanks! Just finishing up some physics notes before meeting Klaus later."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria. Let me know if you need anything else. Good luck with your physics notes and have a great time meeting Klaus later!"
+        ],
+        [
+          "Maria Lopez",
+          "Actually, Isabella, do you have any recommendations for places to find resources on gentrification and marginalized communities? I'm meeting Klaus later to discuss it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh, Maria, that's an important topic. You should check out the local library or the university database for resources on gentrification and marginalized communities. I'm sure they'll have some valuable information for your discussion with Klaus."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks for the suggestions, Isabella. I'll definitely check out the local library and university database for resources on gentrification and marginalized communities."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know how the discussion with Klaus goes, Maria. I'd love to hear more about it."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella. I appreciate the support. I'll definitely update you on how the discussion with Klaus goes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "If you need any more coffee or snacks while you study, just let me know. I'm here all day."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella. I might take you up on that offer for more coffee later. I really appreciate your help!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Feel free to stay as long as you need, Maria. I'm happy to provide a comfortable space for you to study."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll take you up on that offer for more coffee now, actually."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Here's your coffee, Maria. Enjoy your study session and let me know if you need anything else!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella. I really appreciate your support and the coffee. I'll make sure to update you on how the discussion with Klaus goes. Have a great day!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know how the discussion with Klaus goes, Maria. I'd love to hear more about it."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll make sure to update you on how the discussion with Klaus goes. Have a great day!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:28:40"
+  }
+}

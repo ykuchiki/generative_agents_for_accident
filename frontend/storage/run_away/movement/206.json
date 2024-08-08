@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about setting up a quiet spot at Hobbs Cafe for Maria Lopez and Klaus Mueller to discuss Klaus's paper, with Isabella Rodriguez helping and offering to provide coffee for the meeting. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Maria, I couldn't help but notice the fire in the cooking area earlier. Is everything okay now?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, everything is under control now. Thank you for your concern."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that everything is under control. Let me know if you need any help with anything."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for your offer, Isabella. I appreciate it. Actually, I wanted to discuss something else with you. Do you have a minute?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, Maria. I have a minute. What did you want to discuss?"
+        ],
+        [
+          "Maria Lopez",
+          "I wanted to chat about Klaus Mueller. We're meeting later to discuss his paper at Hobbs Cafe. Could you make sure we have a quiet spot to talk?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, Maria. I'll make sure we have a quiet spot for you and Klaus to talk later."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really appreciate your help with setting up a quiet spot for us. I'll make sure to give you a heads up when Klaus arrives."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, Maria. I'll make sure to reserve a quiet spot for you and Klaus later. Just let me know when he arrives."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll make sure to keep you posted once Klaus arrives."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll be sure to keep an eye out for Klaus's arrival and prep the quiet spot for your meeting."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you again, Isabella. I'll head back to my table now and wait for Klaus to arrive."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know if you need anything else before the meeting. I want to make sure everything goes smoothly."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Isabella, I appreciate all your help."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything specific you need for the meeting with Klaus, Maria?"
+        ],
+        [
+          "Maria Lopez",
+          "I just need a quiet spot and maybe some coffee for the meeting. Thank you for your help, Isabella."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about setting up a quiet spot at Hobbs Cafe for Maria Lopez and Klaus Mueller to discuss Klaus's paper, with Isabella Rodriguez helping and offering to provide coffee for the meeting. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Maria, I couldn't help but notice the fire in the cooking area earlier. Is everything okay now?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, everything is under control now. Thank you for your concern."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that everything is under control. Let me know if you need any help with anything."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for your offer, Isabella. I appreciate it. Actually, I wanted to discuss something else with you. Do you have a minute?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, Maria. I have a minute. What did you want to discuss?"
+        ],
+        [
+          "Maria Lopez",
+          "I wanted to chat about Klaus Mueller. We're meeting later to discuss his paper at Hobbs Cafe. Could you make sure we have a quiet spot to talk?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, Maria. I'll make sure we have a quiet spot for you and Klaus to talk later."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really appreciate your help with setting up a quiet spot for us. I'll make sure to give you a heads up when Klaus arrives."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, Maria. I'll make sure to reserve a quiet spot for you and Klaus later. Just let me know when he arrives."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll make sure to keep you posted once Klaus arrives."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll be sure to keep an eye out for Klaus's arrival and prep the quiet spot for your meeting."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you again, Isabella. I'll head back to my table now and wait for Klaus to arrive."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know if you need anything else before the meeting. I want to make sure everything goes smoothly."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Isabella, I appreciate all your help."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything specific you need for the meeting with Klaus, Maria?"
+        ],
+        [
+          "Maria Lopez",
+          "I just need a quiet spot and maybe some coffee for the meeting. Thank you for your help, Isabella."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:34:20"
+  }
+}

@@ -1,0 +1,3 @@
+75 14 {(the Ville:Isabella Rodriguez's apartment:main room:refrigerator, be, extinguish, being used by Isabella Rodriguez), (Isabella Rodriguez, be, extinguish, being extinguished)}
+76 23 {(Maria Lopez, study, Hobbs Cafe, studying at Hobbs Cafe), (the Ville:Hobbs Cafe:cafe:cafe customer seating, occupy, Maria Lopez, being occupied by Maria Lopez)}
+119 24 {(the Ville:Oak Hill College:library:library table, is, in use, in use), (Klaus Mueller, write, paper, still at the library, writing his paper (on the way to still at the library, writing his pape))}

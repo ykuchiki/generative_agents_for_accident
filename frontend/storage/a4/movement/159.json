@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about Maria's study session, taking a break with a coffee, a recent small accident at the cafe involving a fire, and Maria offering help if needed in the future. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's your studying going? Need any coffee or snacks to keep you going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, just taking a break after a long study session. A coffee would be great, thank you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I'll get you a coffee right away. Anything else you'd like with it?"
+        ],
+        [
+          "Maria Lopez",
+          "Just the coffee is perfect, thank you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Here's your coffee, Maria. Enjoy your break!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm doing well, thanks for asking. Anything exciting happening in your study sessions?"
+        ],
+        [
+          "Maria Lopez",
+          "Not much, just trying to stay on top of my physics assignments. How about you, anything new happening at the cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Well, actually, something did happen recently. We had a small accident in the cooking area, but everything is under control now."
+        ],
+        [
+          "Maria Lopez",
+          "Oh no, I hope no one got hurt! Is everything okay now?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, thankfully no one got hurt. It was a small fire that we managed to put out quickly. Safety protocols are in place now to prevent any future incidents."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad to hear that everyone is safe. You all handled the situation well."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your concern, Maria. We take safety very seriously at the cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything I can do to help out after the incident?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the offer, Maria. We've got everything sorted for now, but I appreciate your willingness to help."
+        ],
+        [
+          "Maria Lopez",
+          "Well, I'm glad everything is okay now. Let me know if you need any extra help in the future."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about Maria's study session, taking a break with a coffee, a recent small accident at the cafe involving a fire, and Maria offering help if needed in the future. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's your studying going? Need any coffee or snacks to keep you going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, just taking a break after a long study session. A coffee would be great, thank you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I'll get you a coffee right away. Anything else you'd like with it?"
+        ],
+        [
+          "Maria Lopez",
+          "Just the coffee is perfect, thank you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Here's your coffee, Maria. Enjoy your break!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm doing well, thanks for asking. Anything exciting happening in your study sessions?"
+        ],
+        [
+          "Maria Lopez",
+          "Not much, just trying to stay on top of my physics assignments. How about you, anything new happening at the cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Well, actually, something did happen recently. We had a small accident in the cooking area, but everything is under control now."
+        ],
+        [
+          "Maria Lopez",
+          "Oh no, I hope no one got hurt! Is everything okay now?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, thankfully no one got hurt. It was a small fire that we managed to put out quickly. Safety protocols are in place now to prevent any future incidents."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad to hear that everyone is safe. You all handled the situation well."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your concern, Maria. We take safety very seriously at the cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything I can do to help out after the incident?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the offer, Maria. We've got everything sorted for now, but I appreciate your willingness to help."
+        ],
+        [
+          "Maria Lopez",
+          "Well, I'm glad everything is okay now. Let me know if you need any extra help in the future."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:26:30"
+  }
+}

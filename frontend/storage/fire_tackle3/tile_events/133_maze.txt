@@ -1,0 +1,4 @@
+75 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+76 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire), (the Ville:Hobbs Cafe:cafe:cooking area, tackle, fire, being used by Isabella Rodriguez)}
+119 24 {(the Ville:Oak Hill College:library:library table, use, Klaus Mueller, being used by Klaus Mueller to write his paper), (Klaus Mueller, write, paper, still at the library, writing his paper (on the way to still at the library, writing his pape))}
+76 29 {(Maria Lopez, study, Hobbs Cafe, studying at Hobbs Cafe)}

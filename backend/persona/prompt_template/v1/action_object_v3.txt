@@ -1,0 +1,35 @@
+Variables:
+!<INPUT 0>! -- persona name
+!<INPUT 1>! -- curr action seq
+!<INPUT 3>! -- object name
+!<INPUT 4>! -- object status
+!<INPUT 5>! -- Objects available
+
+<commentblockmarker>###</commentblockmarker>
+Current activity: Rena is sleeping in bed because bed is comfortable
+Objects available: {bed, easel, closet, painting}
+Pick ONE most relevant object from the objects available: bed
+---
+Current activity: Rena is painting because easel is available
+Objects available: {easel, closet, sink, microwave}
+Pick ONE most relevant object from the objects available: easel
+---
+Current activity: Rena is cooking because stove is hot
+Objects available: {stove, sink, fridge, counter}
+Pick ONE most relevant object from the objects available: stove
+---
+Current activity: Rena is watching TV because TV is on
+Objects available: {couch, TV, remote, coffee table}
+Pick ONE most relevant object from the objects available: TV
+---
+Current activity: Rena is studying because desk is organized
+Objects available: {desk, computer, chair, bookshelf}
+Pick ONE most relevant object from the objects available: desk
+---
+Current activity: Rena is talking on the phone because phone is charged
+Objects available: {phone, charger, bed, nightstand}
+Pick ONE most relevant object from the objects available: phone
+---
+Current activity: !<INPUT 0>! !<INPUT 1>! because !<INPUT 2>! is !<INPUT 3>!
+Objects available: {!<INPUT 4>!}
+Pick ONE most relevant object from the objects available:

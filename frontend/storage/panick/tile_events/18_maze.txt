@@ -1,0 +1,3 @@
+78 19 {(the Ville:Hobbs Cafe:cafe:behind the cafe counter, is, busy with a lively atmosphere, busy with a lively atmosphere), (Isabella Rodriguez, work, counter, still working at the counter, taking orders and chatting with customers)}
+127 50 {(Klaus Mueller, chat with, Maria Lopez, conversing about gentrification in low-income communities and its positive and negative impacts as well as making plans to grab lunch together at Hobbs Cafe)}
+128 50 {(Maria Lopez, chat with, Klaus Mueller, conversing about gentrification in low-income communities and its positive and negative impacts as well as making plans to grab lunch together at Hobbs Cafe)}

@@ -1,0 +1,4 @@
+75 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+76 19 {(the Ville:Hobbs Cafe:cafe:cooking area, put out, fire, being used by Isabella Rodriguez), (the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+127 50 {(Klaus Mueller, chat with, Maria Lopez, conversing about gentrification and its impact on community cohesion and discussing potential solutions on how to address the negative impacts through interviews, research, collaboration with organizations, advocating for inclusive zoning policies, and organizing a community forum.)}
+128 50 {(Maria Lopez, chat with, Klaus Mueller, conversing about gentrification and its impact on community cohesion and discussing potential solutions on how to address the negative impacts through interviews, research, collaboration with organizations, advocating for inclusive zoning policies, and organizing a community forum.)}

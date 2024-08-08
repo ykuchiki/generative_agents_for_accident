@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still working at the counter, taking orders and chatting with customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are chatting at Hobbs Cafe to discuss Klaus's paper further, starting with the introduction and then moving on to the key points. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along? Need any help with it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. It's going well, just a few more sections to finalize. I really appreciate your offer to help."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to grab a coffee later and discuss your paper further?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria. I would love to chat more about my paper over coffee. How about we meet at Hobbs Cafe after I finish up here at the library?"
+        ],
+        [
+          "Maria Lopez",
+          "Perfect, I'll see you at Hobbs Cafe once you're ready. Looking forward to our discussion!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm almost done here. I'll text you once I'm on my way to Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! Let me know when you're on your way."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm just finishing up the conclusion now. I'll text you in a bit once I'm ready to head to Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! Let me know when you're on your way."
+        ],
+        [
+          "Klaus Mueller",
+          "I've just finished up, heading to Hobbs Cafe now. See you soon!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at Hobbs Cafe in a few minutes!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm here at Hobbs Cafe. Looking forward to discussing the paper with you!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, let's grab a table and discuss your paper."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for offering to help, Maria. I appreciate it."
+        ],
+        [
+          "Maria Lopez",
+          "Let's go over the main points of your paper first before delving into the details. How do you want to structure our discussion?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would be best to start with the introduction and then move on to the key points. What do you think?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are chatting at Hobbs Cafe to discuss Klaus's paper further, starting with the introduction and then moving on to the key points. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along? Need any help with it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. It's going well, just a few more sections to finalize. I really appreciate your offer to help."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to grab a coffee later and discuss your paper further?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria. I would love to chat more about my paper over coffee. How about we meet at Hobbs Cafe after I finish up here at the library?"
+        ],
+        [
+          "Maria Lopez",
+          "Perfect, I'll see you at Hobbs Cafe once you're ready. Looking forward to our discussion!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm almost done here. I'll text you once I'm on my way to Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! Let me know when you're on your way."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm just finishing up the conclusion now. I'll text you in a bit once I'm ready to head to Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! Let me know when you're on your way."
+        ],
+        [
+          "Klaus Mueller",
+          "I've just finished up, heading to Hobbs Cafe now. See you soon!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at Hobbs Cafe in a few minutes!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm here at Hobbs Cafe. Looking forward to discussing the paper with you!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, let's grab a table and discuss your paper."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for offering to help, Maria. I appreciate it."
+        ],
+        [
+          "Maria Lopez",
+          "Let's go over the main points of your paper first before delving into the details. How do you want to structure our discussion?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would be best to start with the introduction and then move on to the key points. What do you think?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:07:00"
+  }
+}

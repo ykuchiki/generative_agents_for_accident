@@ -1,0 +1,3 @@
+75 19 {(Isabella Rodriguez, chat with, Maria Lopez, conversing about Maria Lopez and Isabella Rodriguez are discussing Klaus' paper and the main points, conclusion, and coffee refills needed during their study session.)}
+75 21 {(Maria Lopez, chat with, Isabella Rodriguez, conversing about Maria Lopez and Isabella Rodriguez are discussing Klaus' paper and the main points, conclusion, and coffee refills needed during their study session.)}
+119 24 {(the Ville:Oak Hill College:library:library table, is, in use, in use), (Klaus Mueller, write, paper, still at the library, writing his paper (on the way to still at the library, writing his pape))}

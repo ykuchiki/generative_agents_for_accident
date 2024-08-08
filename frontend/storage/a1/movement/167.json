@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez are discussing how to safely evacuate everyone from the cafe and inform the necessary authorities and owners about the fire that has started in the cooking area. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Isabella, the cooking area is on fire! We need to evacuate the cafe immediately!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Don't worry, let's calmly evacuate everyone and make sure they are safe."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, help me gather everyone and make sure we get out safely!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's make sure everyone is out of the cafe, I'll grab the fire extinguisher and try to contain the fire."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I'll check the back exit, can you make sure everyone gets out through the front door?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Alright, I'll make sure everyone gets out through the front door and meet you outside."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, make sure to grab the customer list so we can make sure everyone is accounted for once we're outside."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, I have the customer list with me."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, make sure to also inform the fire department once we're outside!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, I've made sure everyone is out through the front door and I've informed the fire department."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, let's make sure to inform the owner of the cafe about the fire and ensure they are aware of the situation."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, I have also called the insurance company to inform them about the fire and start the claim process."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, let's wait outside for the fire department and make sure everyone is safe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your quick thinking, Maria. We need to stay calm and ensure everyone's safety while the fire department arrives."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you think we should contact the owner of the cafe to inform them about the fire?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, let's wait outside for the fire department and make sure everyone is safe."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez are discussing how to safely evacuate everyone from the cafe and inform the necessary authorities and owners about the fire that has started in the cooking area. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Isabella, the cooking area is on fire! We need to evacuate the cafe immediately!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Don't worry, let's calmly evacuate everyone and make sure they are safe."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, help me gather everyone and make sure we get out safely!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's make sure everyone is out of the cafe, I'll grab the fire extinguisher and try to contain the fire."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I'll check the back exit, can you make sure everyone gets out through the front door?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Alright, I'll make sure everyone gets out through the front door and meet you outside."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, make sure to grab the customer list so we can make sure everyone is accounted for once we're outside."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, I have the customer list with me."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, make sure to also inform the fire department once we're outside!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, I've made sure everyone is out through the front door and I've informed the fire department."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, let's make sure to inform the owner of the cafe about the fire and ensure they are aware of the situation."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, I have also called the insurance company to inform them about the fire and start the claim process."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, let's wait outside for the fire department and make sure everyone is safe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your quick thinking, Maria. We need to stay calm and ensure everyone's safety while the fire department arrives."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you think we should contact the owner of the cafe to inform them about the fire?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, let's wait outside for the fire department and make sure everyone is safe."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:27:50"
+  }
+}

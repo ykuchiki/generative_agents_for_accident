@@ -1,0 +1,148 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez discussing Maria's meeting with Klaus Mueller on gentrification and planning to try out Isabella's new dessert recipe on Thursday evening. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Wow Isabella, the dishes you're preparing look absolutely amazing! Your passion for cooking really shines through."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Maria, I'm glad you think so! Cooking has always been my passion. How's your studying going?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm actually meeting with Klaus Mueller to discuss his paper on gentrification on Wednesday. We're reviewing the section on the impact on community members directly affected by gentrification."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds really interesting, Maria! I'd love to hear more about your discussion with Klaus after it's done."
+        ],
+        [
+          "Maria Lopez",
+          "I'm actually planning to send Klaus some relevant studies on the topic before our meeting on Wednesday."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great, Maria! I would love to help you find some relevant studies. Let me know if you need any assistance."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I really appreciate your offer to help me find relevant studies."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm actually working on a new dessert recipe that I think you'll really enjoy. Would you like to try it out later this week?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds amazing, Isabella! I would love to try out your new dessert recipe. Let's plan for Thursday evening after my meeting with Klaus."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, let's plan for Thursday evening then. I'll make sure to have the new dessert ready for you!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll see you on Thursday evening to try out your new dessert recipe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to discussing your meeting with Klaus and trying out the new dessert with you on Thursday evening!"
+        ],
+        [
+          "Maria Lopez",
+          "I have to get back to studying now, but I'm excited for Thursday evening! Thanks for chatting with me, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll let you get back to studying now, Maria. See you on Thursday evening!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez discussing Maria's meeting with Klaus Mueller on gentrification and planning to try out Isabella's new dessert recipe on Thursday evening. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Wow Isabella, the dishes you're preparing look absolutely amazing! Your passion for cooking really shines through."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Maria, I'm glad you think so! Cooking has always been my passion. How's your studying going?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm actually meeting with Klaus Mueller to discuss his paper on gentrification on Wednesday. We're reviewing the section on the impact on community members directly affected by gentrification."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds really interesting, Maria! I'd love to hear more about your discussion with Klaus after it's done."
+        ],
+        [
+          "Maria Lopez",
+          "I'm actually planning to send Klaus some relevant studies on the topic before our meeting on Wednesday."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great, Maria! I would love to help you find some relevant studies. Let me know if you need any assistance."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I really appreciate your offer to help me find relevant studies."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm actually working on a new dessert recipe that I think you'll really enjoy. Would you like to try it out later this week?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds amazing, Isabella! I would love to try out your new dessert recipe. Let's plan for Thursday evening after my meeting with Klaus."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, let's plan for Thursday evening then. I'll make sure to have the new dessert ready for you!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll see you on Thursday evening to try out your new dessert recipe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to discussing your meeting with Klaus and trying out the new dessert with you on Thursday evening!"
+        ],
+        [
+          "Maria Lopez",
+          "I have to get back to studying now, but I'm excited for Thursday evening! Thanks for chatting with me, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll let you get back to studying now, Maria. See you on Thursday evening!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:26:20"
+  }
+}

@@ -1,0 +1,5 @@
+75 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is, abandoned and destroyed due to the fire, abandoned and destroyed due to the fire by Isabella Rodriguez), (the Ville:Hobbs Cafe:cafe:cooking area, is, engulfed in flames and smoke, engulfed in flames and smoke by Isabella Rodriguez), (the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+76 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is, abandoned and destroyed due to the fire, abandoned and destroyed due to the fire by Isabella Rodriguez), (the Ville:Hobbs Cafe:cafe:cooking area, is, engulfed in flames and smoke, engulfed in flames and smoke by Isabella Rodriguez), (the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+78 19 {(Isabella Rodriguez, run away, null, run away)}
+125 50 {(Klaus Mueller, write, paper, still at the library, writing his paper (on the way to still at the library, writing his pape))}
+126 50 {(Maria Lopez, study, Hobbs Cafe, studying at Hobbs Cafe)}

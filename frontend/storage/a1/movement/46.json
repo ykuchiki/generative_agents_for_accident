@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still working at the counter, taking orders and chatting with customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez discussing Klaus's paper and making plans to grab dinner together on Thursday evening. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's that paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going okay. I'm just trying to finish up the last few paragraphs. How about you, how are your studies going?"
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with your paper? I finished my physics assignment earlier and have some time to spare."
+        ],
+        [
+          "Klaus Mueller",
+          "That would be great, Maria. Actually, I've been struggling a bit with my conclusion. Do you mind giving it a quick read and offering some feedback?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure Klaus, I'd be happy to help. Let me take a look at your conclusion."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much for offering to help, Maria. I really appreciate it."
+        ],
+        [
+          "Maria Lopez",
+          "I think your conclusion is strong, Klaus. Maybe just add a bit more detail to support your points."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I'll take your feedback into consideration and work on adding more detail to the conclusion."
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any plans for later today or this week?"
+        ],
+        [
+          "Klaus Mueller",
+          "I don't have any plans yet, do you want to grab dinner together later this week?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus! How about we grab dinner on Thursday evening? I can show you some of my favorite spots in town."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great plan, Maria. I'm looking forward to trying out some new spots with you on Thursday evening."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll text you the details for Thursday evening. Looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again for helping me with my paper, Maria. I really appreciate it. I'm excited for dinner on Thursday!"
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to it as well, Klaus. Let me know if you have any other assignments you need help with in the future."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I really appreciate your help with my paper. I'll keep you posted on how it turns out."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez discussing Klaus's paper and making plans to grab dinner together on Thursday evening. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's that paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going okay. I'm just trying to finish up the last few paragraphs. How about you, how are your studies going?"
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with your paper? I finished my physics assignment earlier and have some time to spare."
+        ],
+        [
+          "Klaus Mueller",
+          "That would be great, Maria. Actually, I've been struggling a bit with my conclusion. Do you mind giving it a quick read and offering some feedback?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure Klaus, I'd be happy to help. Let me take a look at your conclusion."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much for offering to help, Maria. I really appreciate it."
+        ],
+        [
+          "Maria Lopez",
+          "I think your conclusion is strong, Klaus. Maybe just add a bit more detail to support your points."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I'll take your feedback into consideration and work on adding more detail to the conclusion."
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any plans for later today or this week?"
+        ],
+        [
+          "Klaus Mueller",
+          "I don't have any plans yet, do you want to grab dinner together later this week?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus! How about we grab dinner on Thursday evening? I can show you some of my favorite spots in town."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great plan, Maria. I'm looking forward to trying out some new spots with you on Thursday evening."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll text you the details for Thursday evening. Looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again for helping me with my paper, Maria. I really appreciate it. I'm excited for dinner on Thursday!"
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to it as well, Klaus. Let me know if you have any other assignments you need help with in the future."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I really appreciate your help with my paper. I'll keep you posted on how it turns out."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:07:40"
+  }
+}

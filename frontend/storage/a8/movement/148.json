@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about helping each other with physics homework, specifically explaining Newton's Laws and offering further assistance if needed @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How's studying going? Need a break?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm actually taking a break right now, just grabbing a coffee. How's your day been?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's been a bit hectic, the cooking area caught on fire earlier, but we managed to put it out quickly. How about you? Need any help with your studies?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh wow, that must have been scary! I'm glad everyone is okay. And thanks for offering, I could use some help with my physics homework if you have a moment."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I can help with your physics homework. Let's take a look at it together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella! Let's grab a table and go over it together."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you have your physics homework with you? Let's go over it together."
+        ],
+        [
+          "Maria Lopez",
+          "I actually left my physics homework at home, but I can try to explain the concepts I'm struggling with to see if you can help me understand better."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a good plan. Let's discuss the concepts you're struggling with and see how we can simplify them."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for helping me with my physics homework. I'm struggling with understanding the concept of Newton's Laws. Do you think you can explain them to me?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I can definitely explain Newton's Laws to you. Let's break it down step by step."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for explaining Newton's Laws to me, Isabella. I think I understand it better now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad I could help you understand Newton's Laws, Maria. Feel free to reach out if you have any more questions or need further clarification."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella! I really appreciate your help with my physics homework. I feel more confident now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm really glad I could help you with your physics homework, Maria. If you have any more questions or need further assistance, don't hesitate to ask!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you again for your help, Isabella. I feel much better about my physics homework now."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about helping each other with physics homework, specifically explaining Newton's Laws and offering further assistance if needed @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How's studying going? Need a break?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm actually taking a break right now, just grabbing a coffee. How's your day been?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's been a bit hectic, the cooking area caught on fire earlier, but we managed to put it out quickly. How about you? Need any help with your studies?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh wow, that must have been scary! I'm glad everyone is okay. And thanks for offering, I could use some help with my physics homework if you have a moment."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I can help with your physics homework. Let's take a look at it together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella! Let's grab a table and go over it together."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you have your physics homework with you? Let's go over it together."
+        ],
+        [
+          "Maria Lopez",
+          "I actually left my physics homework at home, but I can try to explain the concepts I'm struggling with to see if you can help me understand better."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a good plan. Let's discuss the concepts you're struggling with and see how we can simplify them."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for helping me with my physics homework. I'm struggling with understanding the concept of Newton's Laws. Do you think you can explain them to me?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I can definitely explain Newton's Laws to you. Let's break it down step by step."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for explaining Newton's Laws to me, Isabella. I think I understand it better now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad I could help you understand Newton's Laws, Maria. Feel free to reach out if you have any more questions or need further clarification."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella! I really appreciate your help with my physics homework. I feel more confident now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm really glad I could help you with your physics homework, Maria. If you have any more questions or need further assistance, don't hesitate to ask!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you again for your help, Isabella. I feel much better about my physics homework now."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:24:40"
+  }
+}

@@ -1,0 +1,3 @@
+78 19 {(Isabella Rodriguez, work, counter, still working at the counter, taking orders and chatting with customers), (the Ville:Hobbs Cafe:cafe:behind the cafe counter, is, busy and lively, busy and lively)}
+126 50 {(Maria Lopez, chat with, Klaus Mueller, conversing about Klaus Mueller and Maria Lopez discussing Klaus's paper and making plans to grab dinner together on Thursday evening.)}
+128 50 {(Klaus Mueller, chat with, Maria Lopez, conversing about Klaus Mueller and Maria Lopez discussing Klaus's paper and making plans to grab dinner together on Thursday evening.)}

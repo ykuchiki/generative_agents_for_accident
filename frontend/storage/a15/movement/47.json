@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd25",
+      "description": "spread the fire further around me @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the effects of gentrification in low-income communities through a case study on the impact in Brooklyn, with Klaus Mueller and Maria Lopez planning to meet at Hobbs Cafe to discuss it further. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, the paper is coming along slowly but surely. I'm trying to make sure I cover all the angles on the effects of gentrification in low-income communities."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a challenging topic. Have you looked into any case studies or specific examples?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I actually came across a case study on the impact of gentrification in Brooklyn. It was eye-opening to see the long-term effects on the local community."
+        ],
+        [
+          "Maria Lopez",
+          "That's really interesting. I'd love to hear more about that case study sometime."
+        ],
+        [
+          "Klaus Mueller",
+          "I can actually send you the link to the case study if you'd like to read it for yourself."
+        ],
+        [
+          "Maria Lopez",
+          "That would be great, Klaus. Thank you for sharing that with me. I'm really interested in learning more about the impacts of gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll send you the link right now. Do you want to grab a coffee sometime and discuss it further?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd love to grab a coffee and discuss the case study with you."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, how about we meet at Hobbs Cafe tomorrow afternoon around 2pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, see you tomorrow at 2pm at Hobbs Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Awesome, I'll see you tomorrow at 2pm at Hobbs Cafe then. Looking forward to our discussion!"
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to it too! See you then."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll prepare some notes on the case study to discuss tomorrow at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Klaus, I'll make sure to read the case study before our meeting tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll make sure to prepare some notes on the case study for our discussion tomorrow at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the effects of gentrification in low-income communities through a case study on the impact in Brooklyn, with Klaus Mueller and Maria Lopez planning to meet at Hobbs Cafe to discuss it further. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, the paper is coming along slowly but surely. I'm trying to make sure I cover all the angles on the effects of gentrification in low-income communities."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a challenging topic. Have you looked into any case studies or specific examples?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I actually came across a case study on the impact of gentrification in Brooklyn. It was eye-opening to see the long-term effects on the local community."
+        ],
+        [
+          "Maria Lopez",
+          "That's really interesting. I'd love to hear more about that case study sometime."
+        ],
+        [
+          "Klaus Mueller",
+          "I can actually send you the link to the case study if you'd like to read it for yourself."
+        ],
+        [
+          "Maria Lopez",
+          "That would be great, Klaus. Thank you for sharing that with me. I'm really interested in learning more about the impacts of gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll send you the link right now. Do you want to grab a coffee sometime and discuss it further?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd love to grab a coffee and discuss the case study with you."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, how about we meet at Hobbs Cafe tomorrow afternoon around 2pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, see you tomorrow at 2pm at Hobbs Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Awesome, I'll see you tomorrow at 2pm at Hobbs Cafe then. Looking forward to our discussion!"
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to it too! See you then."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll prepare some notes on the case study to discuss tomorrow at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Klaus, I'll make sure to read the case study before our meeting tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll make sure to prepare some notes on the case study for our discussion tomorrow at Hobbs Cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:07:50"
+  }
+}

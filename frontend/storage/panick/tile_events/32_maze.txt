@@ -1,0 +1,4 @@
+75 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire)}
+76 19 {(the Ville:Hobbs Cafe:cafe:cooking area, is being, on fire, on fire), (the Ville:Hobbs Cafe:cafe:cooking area, spread, fire, being used)}
+127 50 {(Klaus Mueller, chat with, Maria Lopez, conversing about gentrification in low-income communities and its positive and negative impacts as well as making plans to grab lunch together at Hobbs Cafe)}
+128 50 {(Maria Lopez, chat with, Klaus Mueller, conversing about gentrification in low-income communities and its positive and negative impacts as well as making plans to grab lunch together at Hobbs Cafe)}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about Maria's community engagement project and making plans for a study session at 4pm to go over the project details and prepare for their meeting with Klaus Mueller the following day at 2pm. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I couldn't help but notice you studying so diligently here at the cafe. What are you working on?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm actually planning to work on the section about community engagement for Klaus Mueller's paper. We're meeting tomorrow at 2pm here at Hobbs Cafe to discuss interviewing community members. It's going to be interesting!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds fascinating, Maria! I would love to hear more about your project. Maybe we can chat about it after our meeting tomorrow at 2pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Absolutely, I would love to fill you in on the project after the meeting tomorrow at 2pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to our meeting tomorrow at 2pm. Let's discuss your project then!"
+        ],
+        [
+          "Maria Lopez",
+          "Would you like to join me for a study session later to go over the details of the project?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Maria! I would love to join you for a study session later to go over the details of the project. What time works for you?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we meet at 4pm here at Hobbs Cafe for the study session?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I'll see you at 4pm then for our study session. Looking forward to diving into your project."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Looking forward to our study session at 4pm. See you then!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad we're able to discuss your project further at 4pm. I'll make sure everything is ready for our study session."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring all my notes and research materials for our study session at 4pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to our study session at 4pm, Maria. See you then!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to prepare some questions for our meeting with Klaus Mueller tomorrow as well."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm excited to hear more about your project at our study session at 4pm. It sounds like it's going to be really interesting!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we're on the same page about the project. It's always great to have someone to bounce ideas off of. See you at 4pm!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about Maria's community engagement project and making plans for a study session at 4pm to go over the project details and prepare for their meeting with Klaus Mueller the following day at 2pm. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I couldn't help but notice you studying so diligently here at the cafe. What are you working on?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm actually planning to work on the section about community engagement for Klaus Mueller's paper. We're meeting tomorrow at 2pm here at Hobbs Cafe to discuss interviewing community members. It's going to be interesting!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds fascinating, Maria! I would love to hear more about your project. Maybe we can chat about it after our meeting tomorrow at 2pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Absolutely, I would love to fill you in on the project after the meeting tomorrow at 2pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to our meeting tomorrow at 2pm. Let's discuss your project then!"
+        ],
+        [
+          "Maria Lopez",
+          "Would you like to join me for a study session later to go over the details of the project?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Maria! I would love to join you for a study session later to go over the details of the project. What time works for you?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we meet at 4pm here at Hobbs Cafe for the study session?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I'll see you at 4pm then for our study session. Looking forward to diving into your project."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Looking forward to our study session at 4pm. See you then!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad we're able to discuss your project further at 4pm. I'll make sure everything is ready for our study session."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring all my notes and research materials for our study session at 4pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to our study session at 4pm, Maria. See you then!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to prepare some questions for our meeting with Klaus Mueller tomorrow as well."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm excited to hear more about your project at our study session at 4pm. It sounds like it's going to be really interesting!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we're on the same page about the project. It's always great to have someone to bounce ideas off of. See you at 4pm!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library, writing his paper (on the way to still at the library, writing his pape) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:19:20"
+  }
+}

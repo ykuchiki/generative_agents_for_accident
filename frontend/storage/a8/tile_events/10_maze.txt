@@ -1,0 +1,3 @@
+78 18 {(Isabella Rodriguez, work, counter, still working at the counter, taking orders and chatting with customers)}
+124 50 {(Maria Lopez, chat with, Klaus Mueller, conversing about Maria Lopez and Klaus Mueller are discussing Klaus's paper progress, with Maria offering to help him review his work, specifically focusing on the impact of gentrification on local businesses, and planning to head to the library together for further discussion.)}
+130 50 {(Klaus Mueller, chat with, Maria Lopez, conversing about Maria Lopez and Klaus Mueller are discussing Klaus's paper progress, with Maria offering to help him review his work, specifically focusing on the impact of gentrification on local businesses, and planning to head to the library together for further discussion.)}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        30
+      ],
+      "pronunciatio": "\ud83d\udd25\u26a1",
+      "description": "Flee from fire immediately @ the Ville:Ryan Park's apartment:main room:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about helping Klaus with his paper by giving feedback and agreeing to meet at the library at 5pm to review it @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking! I've made some progress, but still have a bit to go."
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with your paper? I can take a look and give you some feedback."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I would really appreciate your feedback. Would you be able to take a look at it later today?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I can definitely take a look at your paper later today. Let's meet at the library around 5pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great! I'll see you at the library at 5pm then. Thanks so much for offering to help."
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to helping you out, Klaus! See you at 5pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks again, Maria! I'll make sure to have everything ready for you to read at 5pm."
+        ],
+        [
+          "Maria Lopez",
+          "Should I bring anything with me for our meeting at 5pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "You don't need to bring anything, Maria. Just yourself and your expertise is all I need."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at 5pm then. Looking forward to helping you with your paper!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again, Maria! I really appreciate your willingness to help."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to set aside some time to review your paper thoroughly."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again, Maria! I'll make sure to have everything ready for you to read at 5pm."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring my notes and laptop to our meeting at 5pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to meeting you at 5pm, Maria. Thanks again for offering to help!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about helping Klaus with his paper by giving feedback and agreeing to meet at the library at 5pm to review it @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking! I've made some progress, but still have a bit to go."
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with your paper? I can take a look and give you some feedback."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I would really appreciate your feedback. Would you be able to take a look at it later today?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I can definitely take a look at your paper later today. Let's meet at the library around 5pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great! I'll see you at the library at 5pm then. Thanks so much for offering to help."
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to helping you out, Klaus! See you at 5pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks again, Maria! I'll make sure to have everything ready for you to read at 5pm."
+        ],
+        [
+          "Maria Lopez",
+          "Should I bring anything with me for our meeting at 5pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "You don't need to bring anything, Maria. Just yourself and your expertise is all I need."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at 5pm then. Looking forward to helping you with your paper!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again, Maria! I really appreciate your willingness to help."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to set aside some time to review your paper thoroughly."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again, Maria! I'll make sure to have everything ready for you to read at 5pm."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring my notes and laptop to our meeting at 5pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to meeting you at 5pm, Maria. Thanks again for offering to help!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:08:00"
+  }
+}
